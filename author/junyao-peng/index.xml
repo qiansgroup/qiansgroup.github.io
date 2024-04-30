@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junyao Peng | Qian&#39;s Group</title>
+    <link>http://localhost:1313/author/junyao-peng/</link>
+      <atom:link href="http://localhost:1313/author/junyao-peng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junyao Peng</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/junyao-peng/avatar_huec5f981765603a77006fc6bb2a8bb610_259314_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Junyao Peng</title>
+      <link>http://localhost:1313/author/junyao-peng/</link>
+    </image>
+    
+    <item>
+      <title>Junyao Peng</title>
+      <link>http://localhost:1313/author/junyao-peng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/junyao-peng/</guid>
+      <description>&lt;!-- here is a brief self-introduction --&gt;
+&lt;p&gt;彭俊尧 is interested in the field of medical engineering integration and is committed to industrializing scientific research achievements, hoping to bring real value to users&lt;/p&gt;
+&lt;!-- You can add yourself website like this: &#34;Homepage: [XXX](www.example.org)&#34; at this place. --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

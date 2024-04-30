@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张欣怡 | Qian&#39;s Group</title>
+    <link>http://localhost:1313/author/%E5%BC%A0%E6%AC%A3%E6%80%A1/</link>
+      <atom:link href="http://localhost:1313/author/%E5%BC%A0%E6%AC%A3%E6%80%A1/index.xml" rel="self" type="application/rss+xml" />
+    <description>张欣怡</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu17f5e10f4582494e3190e5ce2ee17e7e_63771_512x512_fill_lanczos_center_3.png</url>
+      <title>张欣怡</title>
+      <link>http://localhost:1313/author/%E5%BC%A0%E6%AC%A3%E6%80%A1/</link>
+    </image>
+    
+    <item>
+      <title>Xinyi, Zhang 张欣怡</title>
+      <link>http://localhost:1313/author/xinyi-zhang-%E5%BC%A0%E6%AC%A3%E6%80%A1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/xinyi-zhang-%E5%BC%A0%E6%AC%A3%E6%80%A1/</guid>
+      <description>&lt;!-- here is a brief self-introduction --&gt;
+&lt;p&gt;Biography
+Xinyi, Zhang received her B.Eng degree in Electrical Engineering from Zhejiang University (ZJU) in 2021. She is currently pursuing the Ph.D. degree with the Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (supervised by Prof. Qian Zhang). Her research interests include smart health, wearable computing, Artificial Intelligence of Things (AIoT), and HCI technologies.&lt;/p&gt;
+&lt;!-- You can add yourself website like this: &#34;Homepage: [XXX](www.example.org)&#34; at this place. --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

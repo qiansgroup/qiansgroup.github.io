@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>葛林飞 | Qian&#39;s Group</title>
+    <link>http://localhost:1313/author/%E8%91%9B%E6%9E%97%E9%A3%9E/</link>
+      <atom:link href="http://localhost:1313/author/%E8%91%9B%E6%9E%97%E9%A3%9E/index.xml" rel="self" type="application/rss+xml" />
+    <description>葛林飞</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu17f5e10f4582494e3190e5ce2ee17e7e_63771_512x512_fill_lanczos_center_3.png</url>
+      <title>葛林飞</title>
+      <link>http://localhost:1313/author/%E8%91%9B%E6%9E%97%E9%A3%9E/</link>
+    </image>
+    
+    <item>
+      <title>Linfei Ge (葛林飞)</title>
+      <link>http://localhost:1313/author/linfei-ge-%E8%91%9B%E6%9E%97%E9%A3%9E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/linfei-ge-%E8%91%9B%E6%9E%97%E9%A3%9E/</guid>
+      <description>&lt;!-- here is a brief self-introduction --&gt;
+&lt;p&gt;Linfei Ge earned his Bachelor of Science degree in Computer Science and Engineering from the Southern University of Science and Technology in Shenzhen, China, in 2018. He is presently a doctoral candidate at The Hong Kong University of Science and Technology, where he is pursuing his Ph.D. in Computer Science and Engineering. His research interests are centered around wireless sensing, acoustic sensing, and human-computer interaction.&lt;/p&gt;
+&lt;!-- You can add yourself website like this: &#34;Homepage: [XXX](www.example.org)&#34; at this place. --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
