@@ -10,4 +10,4 @@
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
 &lt;/videos> -->
-&lt;p>&lt;video src="./BCG2BP-demo-107.mp4">&lt;/video>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;video src="./BCG2BP-demo-107.mp4" controls>&lt;/video>&lt;/p></description></item></channel></rss>
