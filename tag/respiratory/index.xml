@@ -5,13 +5,13 @@
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
 &lt;/videos> -->
-&lt;p>&lt;video src="./breathmentor.mp4">&lt;/video>&lt;/p>
+&lt;p>&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/p>
 &lt;p>In terms of Lung Function, we present EarSpiro, an earphone-based solution that interprets the recorded airflow sound during a spirometry test into an F-V curve, including both the expiratory and inspiratory measurements. EarSpiro leverages a convolutional neural network (CNN) and a recurrent neural network (RNN) to capture the complex correlation between airflow sound and airflow speed. Meanwhile, EarSpiro adopts a clustering-based segmentation algorithm to track the weak inspiratory signals from the raw audio recording to enable inspiratory measurement. We also enable EarSpiro with daily mouthpiece-like objects such as a funnel using transfer learning and a decoder network with the help of only a few true lung function indices from the user.&lt;/p>
 &lt;!-- mp4格式 -->
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
 &lt;/videos> -->
-&lt;p>&lt;video src="./earspiro.mp4">&lt;/video>&lt;/p>
+&lt;p>&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/p>
 &lt;p>In the future, we plan to monitor and measure each breathing cycle volume and mode via depth camera, and put effort on how to do PFT much more easily.&lt;/p>
 &lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
 &lt;ul>
