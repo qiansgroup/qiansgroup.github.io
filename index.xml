@@ -21,19 +21,19 @@
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="acoustic_strength" src="./acoustic_strength.mp4" type="video/mp4">
 &lt;/videos> -->
-&lt;p>&lt;video src="./acoustic_strength.mp4">&lt;/video>&lt;/p>
+&lt;p>&lt;video src="./acoustic_strength.mp4" controls>&lt;/video>&lt;/p>
 &lt;p>&lt;strong>Acoustic-based Upper Facial Action Recognition for Smart Eyewear&lt;/strong>&lt;/p>
 &lt;!-- mp4格式 -->
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="upper_facial" src="./upper_facial.mp4" type="video/mp4">
 &lt;/videos> -->
-&lt;p>&lt;video src="./upper_facial.mp4">&lt;/video>&lt;/p>
+&lt;p>&lt;video src="./upper_facial.mp4" controls>&lt;/video>&lt;/p>
 &lt;p>&lt;strong>RimSense: Enabling Touch-based Interaction on Eyeglass Rim Using Piezoelectric Sensors&lt;/strong>&lt;/p>
 &lt;!-- mp4格式 -->
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="rimsense" src="./rimsense.mp4" type="video/mp4">
 &lt;/videos> -->
-&lt;p>&lt;video src="./rimsense.mp4">&lt;/video>&lt;/p></description></item><item><title>mmWave in healthcare</title><link>https://qiansgroup.github.io/project/mmwave/</link><pubDate>Thu, 07 Mar 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/mmwave/</guid><description>&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
+&lt;p>&lt;video src="./rimsense.mp4" controls>&lt;/video>&lt;/p></description></item><item><title>mmWave in healthcare</title><link>https://qiansgroup.github.io/project/mmwave/</link><pubDate>Thu, 07 Mar 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/mmwave/</guid><description>&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
 &lt;p>Specifically, in-home monitoring for elderly wellness management offers numerous advantages, including:&lt;/p>
 &lt;ol>
 &lt;li>Improved Quality of Life: In-home monitoring allows elderly individuals to remain in their homes while receiving necessary healthcare services. This can reduce stress and improve overall well-being, leading to a better quality of life.&lt;/li>
