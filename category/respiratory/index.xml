@@ -2,14 +2,16 @@
 &lt;p>For example, instead of using ultrasonic signals, we are trying to leverage audible signals in daily lives, e.g., music or broadcasting audios, to detect human respiration. We design a respiration detection system which derives the respiration rate by continuously estimates the channel impulse response (CIR) using music and broadcast signals. We study the intersymbol interference (ISI) brought by the randomness of music and broadcast signal and give our strategy to minimize the interference. We also propose several techniques to resolve some practical issues, such as the multipath effect and sampling frequency offset between the speaker and the microphone.&lt;/p>
 &lt;p>Moreover, we present BreathMentor, a smart speaker based diaphragmatic breathing monitoring system targeting early COPD stages I and II. BreathMentor is both unobtrusive and preventive of privacy invasion, so that it can solve the existing pain points and suits home care. BreathMentor converts the smart speaker into an active sonar system that continuously perceives and analyses the changes in surroundings, thereby detecting the user&amp;rsquo;s respiration rate, deriving the breathing phases, and classifying whether the patient is practising diaphragmatic breathing. BreathMentor formulates breathing monitoring as a Temporal Action Localization task that enables us to detect each breathing cycle and classify its type. Our key insight is that breathing periodicity and phase duration are natural properties to localize and segment the breaths. Our key design to classify the breathing type is a hybrid architecture encompassing signal processing and deep learning techniques.&lt;/p>
 &lt;!-- mp4格式 -->
-&lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
-&lt;/videos>
+&lt;/videos> -->
+&lt;p>&lt;video src="./breathmentor.mp4">&lt;/video>&lt;/p>
 &lt;p>In terms of Lung Function, we present EarSpiro, an earphone-based solution that interprets the recorded airflow sound during a spirometry test into an F-V curve, including both the expiratory and inspiratory measurements. EarSpiro leverages a convolutional neural network (CNN) and a recurrent neural network (RNN) to capture the complex correlation between airflow sound and airflow speed. Meanwhile, EarSpiro adopts a clustering-based segmentation algorithm to track the weak inspiratory signals from the raw audio recording to enable inspiratory measurement. We also enable EarSpiro with daily mouthpiece-like objects such as a funnel using transfer learning and a decoder network with the help of only a few true lung function indices from the user.&lt;/p>
 &lt;!-- mp4格式 -->
-&lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
-&lt;/videos>
+&lt;/videos> -->
+&lt;p>&lt;video src="./earspiro.mp4">&lt;/video>&lt;/p>
 &lt;p>In the future, we plan to monitor and measure each breathing cycle volume and mode via depth camera, and put effort on how to do PFT much more easily.&lt;/p>
 &lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
 &lt;ul>

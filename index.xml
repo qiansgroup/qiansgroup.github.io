@@ -18,19 +18,22 @@
 &lt;/ul>
 &lt;p>&lt;strong>Acoustic Strength-based Motion Tracking&lt;/strong>&lt;/p>
 &lt;!-- mp4格式 -->
-&lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="acoustic_strength" src="./acoustic_strength.mp4" type="video/mp4">
-&lt;/videos>
+&lt;/videos> -->
+&lt;p>&lt;video src="./acoustic_strength.mp4">&lt;/video>&lt;/p>
 &lt;p>&lt;strong>Acoustic-based Upper Facial Action Recognition for Smart Eyewear&lt;/strong>&lt;/p>
 &lt;!-- mp4格式 -->
-&lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="upper_facial" src="./upper_facial.mp4" type="video/mp4">
-&lt;/videos>
+&lt;/videos> -->
+&lt;p>&lt;video src="./upper_facial.mp4">&lt;/video>&lt;/p>
 &lt;p>&lt;strong>RimSense: Enabling Touch-based Interaction on Eyeglass Rim Using Piezoelectric Sensors&lt;/strong>&lt;/p>
 &lt;!-- mp4格式 -->
-&lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="rimsense" src="./rimsense.mp4" type="video/mp4">
-&lt;/videos></description></item><item><title>mmWave in healthcare</title><link>https://qiansgroup.github.io/project/mmwave/</link><pubDate>Thu, 07 Mar 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/mmwave/</guid><description>&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
+&lt;/videos> -->
+&lt;p>&lt;video src="./rimsense.mp4">&lt;/video>&lt;/p></description></item><item><title>mmWave in healthcare</title><link>https://qiansgroup.github.io/project/mmwave/</link><pubDate>Thu, 07 Mar 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/mmwave/</guid><description>&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
 &lt;p>Specifically, in-home monitoring for elderly wellness management offers numerous advantages, including:&lt;/p>
 &lt;ol>
 &lt;li>Improved Quality of Life: In-home monitoring allows elderly individuals to remain in their homes while receiving necessary healthcare services. This can reduce stress and improve overall well-being, leading to a better quality of life.&lt;/li>
@@ -65,14 +68,16 @@
 &lt;p>For example, instead of using ultrasonic signals, we are trying to leverage audible signals in daily lives, e.g., music or broadcasting audios, to detect human respiration. We design a respiration detection system which derives the respiration rate by continuously estimates the channel impulse response (CIR) using music and broadcast signals. We study the intersymbol interference (ISI) brought by the randomness of music and broadcast signal and give our strategy to minimize the interference. We also propose several techniques to resolve some practical issues, such as the multipath effect and sampling frequency offset between the speaker and the microphone.&lt;/p>
 &lt;p>Moreover, we present BreathMentor, a smart speaker based diaphragmatic breathing monitoring system targeting early COPD stages I and II. BreathMentor is both unobtrusive and preventive of privacy invasion, so that it can solve the existing pain points and suits home care. BreathMentor converts the smart speaker into an active sonar system that continuously perceives and analyses the changes in surroundings, thereby detecting the user&amp;rsquo;s respiration rate, deriving the breathing phases, and classifying whether the patient is practising diaphragmatic breathing. BreathMentor formulates breathing monitoring as a Temporal Action Localization task that enables us to detect each breathing cycle and classify its type. Our key insight is that breathing periodicity and phase duration are natural properties to localize and segment the breaths. Our key design to classify the breathing type is a hybrid architecture encompassing signal processing and deep learning techniques.&lt;/p>
 &lt;!-- mp4格式 -->
-&lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
-&lt;/videos>
+&lt;/videos> -->
+&lt;p>&lt;video src="./breathmentor.mp4">&lt;/video>&lt;/p>
 &lt;p>In terms of Lung Function, we present EarSpiro, an earphone-based solution that interprets the recorded airflow sound during a spirometry test into an F-V curve, including both the expiratory and inspiratory measurements. EarSpiro leverages a convolutional neural network (CNN) and a recurrent neural network (RNN) to capture the complex correlation between airflow sound and airflow speed. Meanwhile, EarSpiro adopts a clustering-based segmentation algorithm to track the weak inspiratory signals from the raw audio recording to enable inspiratory measurement. We also enable EarSpiro with daily mouthpiece-like objects such as a funnel using transfer learning and a decoder network with the help of only a few true lung function indices from the user.&lt;/p>
 &lt;!-- mp4格式 -->
-&lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
-&lt;/videos>
+&lt;/videos> -->
+&lt;p>&lt;video src="./earspiro.mp4">&lt;/video>&lt;/p>
 &lt;p>In the future, we plan to monitor and measure each breathing cycle volume and mode via depth camera, and put effort on how to do PFT much more easily.&lt;/p>
 &lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
 &lt;ul>
@@ -94,9 +99,10 @@
 &lt;/ul>
 &lt;p>Here is a demo:&lt;/p>
 &lt;!-- mp4格式 -->
-&lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
-&lt;/videos></description></item><item><title>People</title><link>https://qiansgroup.github.io/people/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/people/</guid><description/></item><item><title>Spectroscopy for Food</title><link>https://qiansgroup.github.io/project/nir/</link><pubDate>Tue, 16 May 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/nir/</guid><description>&lt;p>&lt;strong>Background:&lt;/strong> Dietary information is a critical dimension for health management. This information can be used to improve our health with self-awareness. If we can monitor food intake over the long term, it could enable doctors and nutritionists to study how chronic diseases are related to dietary habits and provide food suggestions for the population. Furthermore, some special populations have special needs for food intake and we need to pay extra attention to them.&lt;/p>
+&lt;/videos> -->
+&lt;p>&lt;video src="./BCG2BP-demo-107.mp4">&lt;/video>&lt;/p></description></item><item><title>People</title><link>https://qiansgroup.github.io/people/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/people/</guid><description/></item><item><title>Spectroscopy for Food</title><link>https://qiansgroup.github.io/project/nir/</link><pubDate>Tue, 16 May 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/nir/</guid><description>&lt;p>&lt;strong>Background:&lt;/strong> Dietary information is a critical dimension for health management. This information can be used to improve our health with self-awareness. If we can monitor food intake over the long term, it could enable doctors and nutritionists to study how chronic diseases are related to dietary habits and provide food suggestions for the population. Furthermore, some special populations have special needs for food intake and we need to pay extra attention to them.&lt;/p>
 &lt;p>We find that (near-infared) NIR technology has great potential for daily food safety inspection problems, and it has the following advantages:&lt;/p>
 &lt;ul>
 &lt;li>No sample preparation required: easy to operate and very friendly to untrained users.&lt;/li>
