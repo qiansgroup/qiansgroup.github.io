@@ -2,13 +2,23 @@
 &lt;p>In this research direction, we aim to address these challenges by designing immersive and lightweight interaction techniques for IoT devices using their existing sensors or minimal sensor add-ons. Our approach leverages advancements in sensor technology, machine learning algorithms, and human-computer interaction principles to create intuitive and efficient user interfaces. By minimizing the need for additional hardware, we seek to enhance the usability and accessibility of IoT devices, making them more seamless and integrated into everyday life.&lt;/p>
 &lt;p>Our research scope spans a broad spectrum of aspects, including sensor design, algorithm development, and empirical user studies. We explore innovative sensor technologies that can be embedded directly into IoT devices, enabling rich and responsive interactions. Our algorithm work focuses on optimizing the signal-processing and machine-learning pipelines to process the sensory data. Additionally, we conduct comprehensive technical evaluations and user studies to understand the needs and preferences of users, guiding the design of our interaction techniques to be both practical and user-friendly.&lt;/p>
 &lt;p>We target a wide range of IoT devices, including smartphones, tablets, earphones, and eyeglasses, each presenting unique challenges and opportunities for interaction design. By addressing these diverse use cases, we aim to create a cohesive framework for immersive HCI techniques that can be applied across the IoT ecosystem. Ultimately, our goal is to push the boundaries of what is possible with IoT devices, making them more intuitive, efficient, and enjoyable to use. Through our research, we hope to contribute to the development of a more connected and interactive world, where technology seamlessly integrates into our daily lives.&lt;/p>
-&lt;p>Publications:&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Linfei Ge, Jin Zhang, and Qian Zhang, “Acoustic Strength-based Motion Tracking”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), 2020.&lt;/li>
-&lt;li>Wentao Xie, Qian Zhang, Jin Zhang, “Acoustic-based Upper Facial Action Recognition for Smart Eyewear”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 5 (2), 2021&lt;/li>
-&lt;li>Wentao Xie, Huangxun Chen, Jing Wei, Jin Zhang, Qian Zhang, “RimSense: Enabling Touch-based Interaction on Eyeglass Rim Using Piezoelectric Sensors”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (4), 2023&lt;/li>
-&lt;li>Linfei Ge, Qian Zhang, Jin Zhang, and Huangxun Chen, “EHTrack: Earphone-Based Head Tracking via Only Acoustic Signals”, IEEE Internet of Things Journal, 11 (3), 2024.&lt;/li>
-&lt;li>Linfei Ge, Wentao Xie, Jin Zhang, Qian Zhang, “BLEAR: Practical Wireless Earphone Tracking under BLE protocol”. 2024 IEEE International Conference on Pervasive Computing and Communications, Biarritz, France, 2024&lt;/li>
+&lt;li>
+&lt;p>[PerCom’24] Linfei Ge, Wentao Xie, Jin Zhang, Qian Zhang, “BLEAR: Practical Wireless Earphone Tracking under BLE protocol”. 2024 IEEE International Conference on Pervasive Computing and Communications, Biarritz, France, 2024&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IoTJ’24] Linfei Ge, Qian Zhang, Jin Zhang, and Huangxun Chen, “EHTrack: Earphone-Based Head Tracking via Only Acoustic Signals”, IEEE Internet of Things Journal, 11 (3), 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IMWUT/UbiComp’23] Wentao Xie, Huangxun Chen, Jing Wei, Jin Zhang, Qian Zhang, “RimSense: Enabling Touch-based Interaction on Eyeglass Rim Using Piezoelectric Sensors”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (4), 2023&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IMWUT/UbiComp’21] Wentao Xie, Qian Zhang, Jin Zhang, “Acoustic-based Upper Facial Action Recognition for Smart Eyewear”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 5 (2), 2021&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IMWUT/UbiComp’20] Linfei Ge, Jin Zhang, and Qian Zhang, “Acoustic Strength-based Motion Tracking”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), 2020.&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Acoustic Strength-based Motion Tracking&lt;/strong>&lt;/p>
 &lt;!-- mp4格式 -->
