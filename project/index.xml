@@ -1,14 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Projects | Qian's Group</title><link>https://qiansgroup.github.io/project/</link><atom:link href="https://qiansgroup.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Research Projects</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 00:15:46 +0800</lastBuildDate><image><url>https://qiansgroup.github.io/media/icon_hu17f5e10f4582494e3190e5ce2ee17e7e_63771_512x512_fill_lanczos_center_3.png</url><title>Research Projects</title><link>https://qiansgroup.github.io/project/</link></image><item><title>RIS-assisted Wi-Fi Sensing</title><link>https://qiansgroup.github.io/project/rf/</link><pubDate>Thu, 06 Jun 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/rf/</guid><description>&lt;p>As we all know, current Wi-Fi sesning systems exist many open issues, such as bad performance in NLoS and multi-user scenarios. Recently, Reconfigurable Intelligent Surface (RIS), as known as a promising technique in 6G communication, brings us new capabilities and is promising to make RF sensing systems more practical and robust.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Projects | Qian's Group</title><link>https://qiansgroup.github.io/project/</link><atom:link href="https://qiansgroup.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Research Projects</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 00:15:46 +0800</lastBuildDate><image><url>https://qiansgroup.github.io/media/icon_hu17f5e10f4582494e3190e5ce2ee17e7e_63771_512x512_fill_lanczos_center_3.png</url><title>Research Projects</title><link>https://qiansgroup.github.io/project/</link></image><item><title>Smart Pulmonary Caring</title><link>https://qiansgroup.github.io/project/pr/</link><pubDate>Thu, 06 Jun 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/pr/</guid><description>&lt;font size=3>
+&lt;p>Pulmonary rehabilitation is important for individuals with chronic respiratory conditions, such as chronic obstructive pulmonary disease (COPD), asthma, pulmonary fibrosis, and others. Pulmonary rehabilitation plays a crucial role in improving the quality of life for individuals with chronic respiratory conditions. It helps individuals regain and maintain their functional abilities, manage symptoms effectively, and enhance their overall well-being. Our group focuses on how to monitor and assess pulmonary rehabilitation via wireless and portable sensing technologies, including Earphone, Speaker, Microphone as well as Depth Camera.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[IMWUT/UbiComp ’23] Wentao Xie, Qingyong Hu, Jin Zhang, Qian Zhang, &amp;ldquo;EarSpiro: Earphone-based Spirometry for Lung Function Assessment&amp;rdquo;, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6 (4), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IMWUT/UbiComp ’22] Y. Gong, and Q. Zhang, &amp;ldquo;BreathMentor: Acoustic-based Diaphagmatic Breathing Monitor System”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IoTJ ’20] Wentao Xie, Runxin Tian, Jin Zhang, Qian Zhang, &amp;ldquo;Noncontact Respiration Detection Leveraging Music and Broadcast Signals&amp;rdquo;, IEEE Internet of Things Journal, 8 (4), 2020.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Demos:&lt;/strong>&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>EarSpiro&lt;/strong>
+&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>BreathMentor&lt;/strong>
+&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>RIS-assisted Wi-Fi Sensing</title><link>https://qiansgroup.github.io/project/rf/</link><pubDate>Wed, 05 Jun 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/rf/</guid><description>&lt;p>As we all know, current Wi-Fi sesning systems exist many open issues, such as bad performance in NLoS and multi-user scenarios. Recently, Reconfigurable Intelligent Surface (RIS), as known as a promising technique in 6G communication, brings us new capabilities and is promising to make RF sensing systems more practical and robust.&lt;/p>
 &lt;p>RF sensing, especially Wi-Fi sensing, is very promising due to the privacy-persevering nature and the extensive adoption of Wi-Fi chips in IoT devices makes it appealing to enable many attractive applications. However, there is still a huge gap between it and its actual use. The main issues can be concludes as Environment-dependency, Sensitive to location and orientation, not robust to Multi-user scenario and Security issues. Since the current Wi-Fi devices are designed for communication, the limitation of the harware (especially the limited number of antenna and narrow bandwidth) makes the Wi-Fi sensing systems hard to break through these bottle necks.&lt;/p>
 &lt;p>A Reconfigurable Intelligent Surface (RIS), also known as an Intelligent Reflecting Surface (IRS), comprises an array of reflected antenna elements, each of which can independently incur some change to the incident signal. The rising of RIS provides us many potential solutions to solve these open issues. We propose that RIS can support three new capabilities to current Wi-Fi sensing systems. First, RIS provides a new and controllable transmission path to bypass obstacles. Second, it can also concentrate the wireless energy reflected by RIS to certain regions of interest (ROI). Third, RIS can proactively change the wireless environment, which makes it useful for attack applications.&lt;/p>
 &lt;p>
 &lt;figure id="figure-ris-prototype">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="RIS prototype" srcset="
-/project/rf/featured_hu0c920729f95a927c1d9bf8efec50daee_1641081_80f266c850bb01dc68c5bca072474f6c.webp 400w,
+/project/rf/featured_hu0c920729f95a927c1d9bf8efec50daee_1641081_f79e634d24d2e502dc32259cbfb224f6.webp 400w,
 /project/rf/featured_hu0c920729f95a927c1d9bf8efec50daee_1641081_8a746fa87de356a9412e287603584b78.webp 760w,
 /project/rf/featured_hu0c920729f95a927c1d9bf8efec50daee_1641081_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://qiansgroup.github.io/project/rf/featured_hu0c920729f95a927c1d9bf8efec50daee_1641081_80f266c850bb01dc68c5bca072474f6c.webp"
+src="https://qiansgroup.github.io/project/rf/featured_hu0c920729f95a927c1d9bf8efec50daee_1641081_f79e634d24d2e502dc32259cbfb224f6.webp"
 width="760"
 height="486"
 loading="lazy" data-zoomable />&lt;/div>
@@ -22,10 +53,10 @@ The smart surface has 16 × 16 antenna elements with a size of 31𝑐𝑚 × 31�
 &lt;figure id="figure-riscan">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="RIScan" srcset="
-/project/rf/RIScan_hucd97d2fdbf826ecf82ce7634bf593f08_216746_c30277f9a140911cb8323ddf1c661971.webp 400w,
+/project/rf/RIScan_hucd97d2fdbf826ecf82ce7634bf593f08_216746_76c33f9fffef60b546884e4e7927875a.webp 400w,
 /project/rf/RIScan_hucd97d2fdbf826ecf82ce7634bf593f08_216746_6caa69396380617177024134285693ea.webp 760w,
 /project/rf/RIScan_hucd97d2fdbf826ecf82ce7634bf593f08_216746_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://qiansgroup.github.io/project/rf/RIScan_hucd97d2fdbf826ecf82ce7634bf593f08_216746_c30277f9a140911cb8323ddf1c661971.webp"
+src="https://qiansgroup.github.io/project/rf/RIScan_hucd97d2fdbf826ecf82ce7634bf593f08_216746_76c33f9fffef60b546884e4e7927875a.webp"
 width="707"
 height="760"
 loading="lazy" data-zoomable />&lt;/div>
@@ -38,10 +69,10 @@ RIScan
 &lt;figure id="figure-ristealth">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="RIStealth" srcset="
-/project/rf/RIStealth_hud2f43dd24b4260785001c9300776ad23_161853_26d422257ce59b72fa1c268633b599c2.webp 400w,
+/project/rf/RIStealth_hud2f43dd24b4260785001c9300776ad23_161853_0a25c4adf3ad527432a22eddca7dac45.webp 400w,
 /project/rf/RIStealth_hud2f43dd24b4260785001c9300776ad23_161853_ae60e3bb31608063c2da727a42016ef6.webp 760w,
 /project/rf/RIStealth_hud2f43dd24b4260785001c9300776ad23_161853_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://qiansgroup.github.io/project/rf/RIStealth_hud2f43dd24b4260785001c9300776ad23_161853_26d422257ce59b72fa1c268633b599c2.webp"
+src="https://qiansgroup.github.io/project/rf/RIStealth_hud2f43dd24b4260785001c9300776ad23_161853_0a25c4adf3ad527432a22eddca7dac45.webp"
 width="760"
 height="219"
 loading="lazy" data-zoomable />&lt;/div>
@@ -129,33 +160,7 @@ RIStealth
 &lt;p>With a strong connection with professional MSK disease clinicians and patients, we have the ability to identify real clinical demands and facilitate wearable sensing technology transfer from laboratory to clinics or home, trying to enable precise MSK disease management.&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;p>By combining cutting-edge wearable sensing technologies with deep learning techniques, our team strives to revolutionize the field of disease rehabilitation. Our ultimate goal is to improve the outcomes of musculoskeletal disease management, particularly in the context of KOA gait re-training, by providing clinicians and patients with accurate and actionable biomechanical insights.&lt;/p></description></item><item><title>Smart Pulmonary Caring</title><link>https://qiansgroup.github.io/project/pr/</link><pubDate>Thu, 07 Sep 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/pr/</guid><description>&lt;p>Pulmonary rehabilitation is important for individuals with chronic respiratory conditions, such as chronic obstructive pulmonary disease (COPD), asthma, pulmonary fibrosis, and others. Pulmonary rehabilitation plays a crucial role in improving the quality of life for individuals with chronic respiratory conditions. It helps individuals regain and maintain their functional abilities, manage symptoms effectively, and enhance their overall well-being. Our group focuses on how to monitor and assess pulmonary rehabilitation via wireless and portable sensing technologies, including Earphone, Speaker, Microphone as well as Depth Camera.&lt;/p>
-&lt;p>For example, instead of using ultrasonic signals, we are trying to leverage audible signals in daily lives, e.g., music or broadcasting audios, to detect human respiration. We design a respiration detection system which derives the respiration rate by continuously estimates the channel impulse response (CIR) using music and broadcast signals. We study the intersymbol interference (ISI) brought by the randomness of music and broadcast signal and give our strategy to minimize the interference. We also propose several techniques to resolve some practical issues, such as the multipath effect and sampling frequency offset between the speaker and the microphone.&lt;/p>
-&lt;p>Moreover, we present BreathMentor, a smart speaker based diaphragmatic breathing monitoring system targeting early COPD stages I and II. BreathMentor is both unobtrusive and preventive of privacy invasion, so that it can solve the existing pain points and suits home care. BreathMentor converts the smart speaker into an active sonar system that continuously perceives and analyses the changes in surroundings, thereby detecting the user&amp;rsquo;s respiration rate, deriving the breathing phases, and classifying whether the patient is practising diaphragmatic breathing. BreathMentor formulates breathing monitoring as a Temporal Action Localization task that enables us to detect each breathing cycle and classify its type. Our key insight is that breathing periodicity and phase duration are natural properties to localize and segment the breaths. Our key design to classify the breathing type is a hybrid architecture encompassing signal processing and deep learning techniques.&lt;/p>
-&lt;!-- mp4格式 -->
-&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
-&lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
-&lt;/videos> -->
-&lt;p>&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/p>
-&lt;p>In terms of Lung Function, we present EarSpiro, an earphone-based solution that interprets the recorded airflow sound during a spirometry test into an F-V curve, including both the expiratory and inspiratory measurements. EarSpiro leverages a convolutional neural network (CNN) and a recurrent neural network (RNN) to capture the complex correlation between airflow sound and airflow speed. Meanwhile, EarSpiro adopts a clustering-based segmentation algorithm to track the weak inspiratory signals from the raw audio recording to enable inspiratory measurement. We also enable EarSpiro with daily mouthpiece-like objects such as a funnel using transfer learning and a decoder network with the help of only a few true lung function indices from the user.&lt;/p>
-&lt;!-- mp4格式 -->
-&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
-&lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
-&lt;/videos> -->
-&lt;p>&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/p>
-&lt;p>In the future, we plan to monitor and measure each breathing cycle volume and mode via depth camera, and put effort on how to do PFT much more easily.&lt;/p>
-&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>[IMWUT/UbiComp ’23] Wentao Xie, Qingyong Hu, Jin Zhang, Qian Zhang, &amp;ldquo;EarSpiro: Earphone-based Spirometry for Lung Function Assessment&amp;rdquo;, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6 (4), 2022.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IMWUT/UbiComp ’22] Y. Gong, and Q. Zhang, &amp;ldquo;BreathMentor: Acoustic-based Diaphagmatic Breathing Monitor System”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IoTJ ’20] Wentao Xie, Runxin Tian, Jin Zhang, Qian Zhang, &amp;ldquo;Noncontact Respiration Detection Leveraging Music and Broadcast Signals&amp;rdquo;, IEEE Internet of Things Journal, 8 (4), 2020.&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Ballistocardiograph for Health</title><link>https://qiansgroup.github.io/project/bcg/</link><pubDate>Sat, 15 Jul 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/bcg/</guid><description>&lt;p>The advent of several health-related challenges, including the rapid global aging of the population, has imposed a significant strain on the healthcare systems and associated costs. To alleviate this, there has been an escalating interest in non-invasive and privacy-preserving medical monitoring systems. Though traditional polysomnography (PSG) remains the gold standard for diagnosing disorders such as obstructive sleep apnea (OSA), its complexity, high cost, and invasive characteristics emphasize the importance of seeking alternative solutions. A promising alternate technology that has gained widespread interest among researchers due to its non-invasive nature and convenience is Ballistocardiography (BCG).&lt;/p>
+&lt;p>By combining cutting-edge wearable sensing technologies with deep learning techniques, our team strives to revolutionize the field of disease rehabilitation. Our ultimate goal is to improve the outcomes of musculoskeletal disease management, particularly in the context of KOA gait re-training, by providing clinicians and patients with accurate and actionable biomechanical insights.&lt;/p></description></item><item><title>Ballistocardiograph for Health</title><link>https://qiansgroup.github.io/project/bcg/</link><pubDate>Sat, 15 Jul 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/bcg/</guid><description>&lt;p>The advent of several health-related challenges, including the rapid global aging of the population, has imposed a significant strain on the healthcare systems and associated costs. To alleviate this, there has been an escalating interest in non-invasive and privacy-preserving medical monitoring systems. Though traditional polysomnography (PSG) remains the gold standard for diagnosing disorders such as obstructive sleep apnea (OSA), its complexity, high cost, and invasive characteristics emphasize the importance of seeking alternative solutions. A promising alternate technology that has gained widespread interest among researchers due to its non-invasive nature and convenience is Ballistocardiography (BCG).&lt;/p>
 &lt;p>BCG is a non-invasive technology that captures the repetitive motions induced by heartbeats in the human body, resulting from the acceleration of blood as it is ejected and moved in large vessels. It measures mass movements in the body, triggered by the forces associated with heart contraction, thereby providing insights into the overall performance of the circulatory system. The Ballistocardiogram (BCG) signal documents the ballistic forces of the heart due to the abrupt ejection of blood into the great vessels during each heartbeat, encompassing breathing and body movement.&lt;/p>
 &lt;p>Overall, ballistocardiogram (BCG) is a non-contact technology that records the status of cardiovascular system. Analyzing BCG signals can achienve applications such as rspration, heartbeat, blood pressure and sleep monitirong. We are exploring further application in early screening and monitoring of disease progression using BCG signals.&lt;/p>
 &lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
