@@ -90,89 +90,7 @@ RIStealth
 &lt;li>
 &lt;p>[SenSys ’23] Yuxuan ZHOU, Chenggao LI, Huangxun CHEN and Qian Zhang, &amp;ldquo;RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface.&amp;rdquo; Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems. 2023.&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Immersive HCI Techniques</title><link>https://qiansgroup.github.io/project/hci/</link><pubDate>Thu, 07 Mar 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/hci/</guid><description>&lt;p>With the development of sensor and mobile computing technologies, IoT devices have become an integral part of our daily lives. From smart homes and wearable devices to industrial automation and healthcare monitoring, these devices are transforming the way we interact with the world around us. However, due to their miniature size and inherent power and computation constraints, the interaction methodologies for these devices are often suboptimal. Typically, they rely on additional hardware, such as dedicated input panels or even smartphones or PCs, to facilitate their use, which can limit their functionality and user experience.&lt;/p>
-&lt;p>In this research direction, we aim to address these challenges by designing immersive and lightweight interaction techniques for IoT devices using their existing sensors or minimal sensor add-ons. Our approach leverages advancements in sensor technology, machine learning algorithms, and human-computer interaction principles to create intuitive and efficient user interfaces. By minimizing the need for additional hardware, we seek to enhance the usability and accessibility of IoT devices, making them more seamless and integrated into everyday life.&lt;/p>
-&lt;p>Our research scope spans a broad spectrum of aspects, including sensor design, algorithm development, and empirical user studies. We explore innovative sensor technologies that can be embedded directly into IoT devices, enabling rich and responsive interactions. Our algorithm work focuses on optimizing the signal-processing and machine-learning pipelines to process the sensory data. Additionally, we conduct comprehensive technical evaluations and user studies to understand the needs and preferences of users, guiding the design of our interaction techniques to be both practical and user-friendly.&lt;/p>
-&lt;p>We target a wide range of IoT devices, including smartphones, tablets, earphones, and eyeglasses, each presenting unique challenges and opportunities for interaction design. By addressing these diverse use cases, we aim to create a cohesive framework for immersive HCI techniques that can be applied across the IoT ecosystem. Ultimately, our goal is to push the boundaries of what is possible with IoT devices, making them more intuitive, efficient, and enjoyable to use. Through our research, we hope to contribute to the development of a more connected and interactive world, where technology seamlessly integrates into our daily lives.&lt;/p>
-&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>[PerCom’24] Linfei Ge, Wentao Xie, Jin Zhang, Qian Zhang, “BLEAR: Practical Wireless Earphone Tracking under BLE protocol”. 2024 IEEE International Conference on Pervasive Computing and Communications, Biarritz, France, 2024&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IoTJ’24] Linfei Ge, Qian Zhang, Jin Zhang, and Huangxun Chen, “EHTrack: Earphone-Based Head Tracking via Only Acoustic Signals”, IEEE Internet of Things Journal, 11 (3), 2024.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IMWUT/UbiComp’23] Wentao Xie, Huangxun Chen, Jing Wei, Jin Zhang, Qian Zhang, “RimSense: Enabling Touch-based Interaction on Eyeglass Rim Using Piezoelectric Sensors”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (4), 2023&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IMWUT/UbiComp’21] Wentao Xie, Qian Zhang, Jin Zhang, “Acoustic-based Upper Facial Action Recognition for Smart Eyewear”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 5 (2), 2021&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IMWUT/UbiComp’20] Linfei Ge, Jin Zhang, and Qian Zhang, “Acoustic Strength-based Motion Tracking”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), 2020.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Acoustic Strength-based Motion Tracking&lt;/strong>&lt;/p>
-&lt;!-- mp4格式 -->
-&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
-&lt;source id="acoustic_strength" src="./acoustic_strength.mp4" type="video/mp4">
-&lt;/videos> -->
-&lt;p>&lt;video src="./acoustic_strength.mp4" controls>&lt;/video>&lt;/p>
-&lt;p>&lt;strong>Acoustic-based Upper Facial Action Recognition for Smart Eyewear&lt;/strong>&lt;/p>
-&lt;!-- mp4格式 -->
-&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
-&lt;source id="upper_facial" src="./upper_facial.mp4" type="video/mp4">
-&lt;/videos> -->
-&lt;p>&lt;video src="./upper_facial.mp4" controls>&lt;/video>&lt;/p>
-&lt;p>&lt;strong>RimSense: Enabling Touch-based Interaction on Eyeglass Rim Using Piezoelectric Sensors&lt;/strong>&lt;/p>
-&lt;!-- mp4格式 -->
-&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
-&lt;source id="rimsense" src="./rimsense.mp4" type="video/mp4">
-&lt;/videos> -->
-&lt;p>&lt;video src="./rimsense.mp4" controls>&lt;/video>&lt;/p></description></item><item><title>mmWave in healthcare</title><link>https://qiansgroup.github.io/project/mmwave/</link><pubDate>Thu, 07 Mar 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/mmwave/</guid><description>&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
-&lt;p>Specifically, in-home monitoring for elderly wellness management offers numerous advantages, including:&lt;/p>
-&lt;ol>
-&lt;li>Improved Quality of Life: In-home monitoring allows elderly individuals to remain in their homes while receiving necessary healthcare services. This can reduce stress and improve overall well-being, leading to a better quality of life.&lt;/li>
-&lt;li>Continuous Monitoring: In-home monitoring allows for continuous monitoring of health and disease progression, providing healthcare professionals with more objective information to enable customized healthcare and treatment plans.&lt;/li>
-&lt;li>Prompt Intervention: In-home monitoring can provide prompt intervention in case of any health emergencies, reducing the risk of hospitalization and improving overall health outcomes.&lt;/li>
-&lt;li>Cost-Effective: In-home monitoring is a cost-effective option compared to traditional healthcare services, making it an accessible option for a wider range of individuals.&lt;/li>
-&lt;li>Increased Independence: In-home monitoring can increase independence for elderly individuals, allowing them to maintain their autonomy and control over their own healthcare.&lt;/li>
-&lt;/ol>
-&lt;p>Utilizing mmWave technology in in-home elderly wellness management offers numerous advantages, including:&lt;/p>
-&lt;ol>
-&lt;li>Privacy-Preserving: mmWave technology is contactless, eliminating the need for invasive monitoring and ensuring the privacy of the individual being monitored.&lt;/li>
-&lt;li>Non-Invasive: mmWave technology is non-invasive due to its contactless nature, making it a more comfortable and convenient option for elderly individuals who may have mobility limitations or other health concerns.&lt;/li>
-&lt;li>Robustness: mmWave technology is robust to light and some obstacles, ensuring reliable and accurate monitoring even in challenging environments.&lt;/li>
-&lt;li>Low-Cost: mmWave technology is a low-cost option compared to traditional healthcare services, making it an accessible option for a wider range of individuals.&lt;/li>
-&lt;/ol>
-&lt;p>Overall, utilizing mmWave technology in in-home elderly wellness management offers numerous advantages, including privacy-preserving and non-invasive monitoring, robustness, and low-cost. These advantages make it a promising option for improving healthcare outcomes for elderly individuals.&lt;/p></description></item><item><title>Wearables for Biomechanics</title><link>https://qiansgroup.github.io/project/muscle/</link><pubDate>Wed, 01 Nov 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/muscle/</guid><description>&lt;p>In the field of musculoskeletal (MSK) disease management, the role of biomechanics cannot be overstated. Biomechanics, the study of the mechanical forces and movements that occur within the human body, plays a pivotal role in understanding and improving the functioning of the musculoskeletal system. This is particularly crucial in the context of musculoskeletal diseases, such as knee osteoarthritis (KOA), which often require targeted approaches to restore mobility and enhance quality of life.&lt;/p>
-&lt;p>Our group recognize the significance of biomechanics in musculoskeletal disease management, specifically in the domain of KOA gait re-training. Gait re-training, a therapeutic intervention aimed at modifying abnormal walking patterns, has shown promising results in managing KOA. However, accurately assessing and quantifying biomechanical metrics during gait re-training has remained a challenge, hindering the optimization of treatment strategies.&lt;/p>
-&lt;p>To address this challenge, our interdisciplinary team is at the forefront of developing novel solutions that combine wearable sensing technologies with deep learning techniques. By integrating the power of wearable devices and advanced machine learning algorithms, we aim to enable precise and real-time estimation of biomechanics metrics for musculoskeletal disease management.&lt;/p>
-&lt;p>Our research methodology centers around leveraging deep learning-enhanced wearable sensing technologies to gain valuable insights into the biomechanics of individuals with musculoskeletal diseases, with a specific focus on KOA gait re-training. This approach offers several key advantages:&lt;/p>
-&lt;ol>
-&lt;li>
-&lt;p>We employ state-of-the-art wearable devices, such as inertial measurement units (IMUs) and smart textiles, to capture high-resolution data on joint angles, forces, and movement patterns. These non-invasive and unobtrusive sensors allow us to collect biomechanical data in real-world settings, enabling a more comprehensive understanding of gait dynamics.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Through the application of state-of-the-art deep learning algorithms, we harness the computational power necessary to analyze complex biomechanical data. By training neural networks on large datasets, we can extract meaningful patterns and relationships, facilitating accurate estimation of key biomechanical metrics for disease management.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>With a strong connection with professional MSK disease clinicians and patients, we have the ability to identify real clinical demands and facilitate wearable sensing technology transfer from laboratory to clinics or home, trying to enable precise MSK disease management.&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;p>By combining cutting-edge wearable sensing technologies with deep learning techniques, our team strives to revolutionize the field of disease rehabilitation. Our ultimate goal is to improve the outcomes of musculoskeletal disease management, particularly in the context of KOA gait re-training, by providing clinicians and patients with accurate and actionable biomechanical insights.&lt;/p></description></item><item><title>Ballistocardiograph for Health</title><link>https://qiansgroup.github.io/project/bcg/</link><pubDate>Sat, 15 Jul 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/bcg/</guid><description>&lt;p>The advent of several health-related challenges, including the rapid global aging of the population, has imposed a significant strain on the healthcare systems and associated costs. To alleviate this, there has been an escalating interest in non-invasive and privacy-preserving medical monitoring systems. Though traditional polysomnography (PSG) remains the gold standard for diagnosing disorders such as obstructive sleep apnea (OSA), its complexity, high cost, and invasive characteristics emphasize the importance of seeking alternative solutions. A promising alternate technology that has gained widespread interest among researchers due to its non-invasive nature and convenience is Ballistocardiography (BCG).&lt;/p>
-&lt;p>BCG is a non-invasive technology that captures the repetitive motions induced by heartbeats in the human body, resulting from the acceleration of blood as it is ejected and moved in large vessels. It measures mass movements in the body, triggered by the forces associated with heart contraction, thereby providing insights into the overall performance of the circulatory system. The Ballistocardiogram (BCG) signal documents the ballistic forces of the heart due to the abrupt ejection of blood into the great vessels during each heartbeat, encompassing breathing and body movement.&lt;/p>
-&lt;p>Overall, ballistocardiogram (BCG) is a non-contact technology that records the status of cardiovascular system. Analyzing BCG signals can achienve applications such as rspration, heartbeat, blood pressure and sleep monitirong. We are exploring further application in early screening and monitoring of disease progression using BCG signals.&lt;/p>
-&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>[IMWUT/UbiComp ’23] Yandao Huang, Minghui Qiu, Lin Chen, Zhencan Peng, Qian Zhang and Kaishun Wu, “NF-Heart: A Near-field Non-contact Continuous User Authentication System via Ballistocardiogram”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (1), 2023.&lt;/li>
-&lt;/ul>
-&lt;p>Here is a demo:&lt;/p>
-&lt;!-- mp4格式 -->
-&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
-&lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
-&lt;/videos> -->
-&lt;p>&lt;video src="./BCG2BP-demo-107.mp4" controls>&lt;/video>&lt;/p></description></item><item><title>Spectroscopy for Food</title><link>https://qiansgroup.github.io/project/nir/</link><pubDate>Tue, 16 May 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/nir/</guid><description>&lt;p>&lt;strong>Background:&lt;/strong> Dietary information is a critical dimension for health management. This information can be used to improve our health with self-awareness. If we can monitor food intake over the long term, it could enable doctors and nutritionists to study how chronic diseases are related to dietary habits and provide food suggestions for the population. Furthermore, some special populations have special needs for food intake and we need to pay extra attention to them.&lt;/p>
+&lt;/ul></description></item><item><title>Spectroscopy for Food</title><link>https://qiansgroup.github.io/project/nir/</link><pubDate>Thu, 16 May 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/nir/</guid><description>&lt;p>&lt;strong>Background:&lt;/strong> Dietary information is a critical dimension for health management. This information can be used to improve our health with self-awareness. If we can monitor food intake over the long term, it could enable doctors and nutritionists to study how chronic diseases are related to dietary habits and provide food suggestions for the population. Furthermore, some special populations have special needs for food intake and we need to pay extra attention to them.&lt;/p>
 &lt;p>We find that (near-infared) NIR technology has great potential for daily food safety inspection problems, and it has the following advantages:&lt;/p>
 &lt;ul>
 &lt;li>No sample preparation required: easy to operate and very friendly to untrained users.&lt;/li>
@@ -225,4 +143,72 @@ Proper nutrient intake is essential for infants. Currently, mothers can only tra
 &lt;li>
 &lt;p>[IEEE IoTJ’22] Haiyan Hu, Qian Zhang and Yanjiao Chen, &amp;ldquo;NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation.&amp;rdquo; [&lt;a href="https://ieeexplore.ieee.org/document/9745595" target="_blank" rel="noopener">paper&lt;/a>]&lt;/p>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Immersive HCI Techniques</title><link>https://qiansgroup.github.io/project/hci/</link><pubDate>Thu, 07 Mar 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/hci/</guid><description>&lt;p>With the development of sensor and mobile computing technologies, IoT devices have become an integral part of our daily lives. From smart homes and wearable devices to industrial automation and healthcare monitoring, these devices are transforming the way we interact with the world around us. However, due to their miniature size and inherent power and computation constraints, the interaction methodologies for these devices are often suboptimal. Typically, they rely on additional hardware, such as dedicated input panels or even smartphones or PCs, to facilitate their use, which can limit their functionality and user experience.&lt;/p>
+&lt;p>In this research direction, we aim to address these challenges by designing immersive and lightweight interaction techniques for IoT devices using their existing sensors or minimal sensor add-ons. Our approach leverages advancements in sensor technology, machine learning algorithms, and human-computer interaction principles to create intuitive and efficient user interfaces. By minimizing the need for additional hardware, we seek to enhance the usability and accessibility of IoT devices, making them more seamless and integrated into everyday life.&lt;/p>
+&lt;p>Our research scope spans a broad spectrum of aspects, including sensor design, algorithm development, and empirical user studies. We explore innovative sensor technologies that can be embedded directly into IoT devices, enabling rich and responsive interactions. Our algorithm work focuses on optimizing the signal-processing and machine-learning pipelines to process the sensory data. Additionally, we conduct comprehensive technical evaluations and user studies to understand the needs and preferences of users, guiding the design of our interaction techniques to be both practical and user-friendly.&lt;/p>
+&lt;p>We target a wide range of IoT devices, including smartphones, tablets, earphones, and eyeglasses, each presenting unique challenges and opportunities for interaction design. By addressing these diverse use cases, we aim to create a cohesive framework for immersive HCI techniques that can be applied across the IoT ecosystem. Ultimately, our goal is to push the boundaries of what is possible with IoT devices, making them more intuitive, efficient, and enjoyable to use. Through our research, we hope to contribute to the development of a more connected and interactive world, where technology seamlessly integrates into our daily lives.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[PerCom’24] Linfei Ge, Wentao Xie, Jin Zhang, Qian Zhang, “BLEAR: Practical Wireless Earphone Tracking under BLE protocol”. 2024 IEEE International Conference on Pervasive Computing and Communications, Biarritz, France, 2024&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IoTJ’24] Linfei Ge, Qian Zhang, Jin Zhang, and Huangxun Chen, “EHTrack: Earphone-Based Head Tracking via Only Acoustic Signals”, IEEE Internet of Things Journal, 11 (3), 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IMWUT/UbiComp’23] Wentao Xie, Huangxun Chen, Jing Wei, Jin Zhang, Qian Zhang, “RimSense: Enabling Touch-based Interaction on Eyeglass Rim Using Piezoelectric Sensors”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (4), 2023&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IMWUT/UbiComp’21] Wentao Xie, Qian Zhang, Jin Zhang, “Acoustic-based Upper Facial Action Recognition for Smart Eyewear”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 5 (2), 2021&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IMWUT/UbiComp’20] Linfei Ge, Jin Zhang, and Qian Zhang, “Acoustic Strength-based Motion Tracking”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), 2020.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Acoustic Strength-based Motion Tracking&lt;/strong>&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="acoustic_strength" src="./acoustic_strength.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;p>&lt;video src="./acoustic_strength.mp4" controls>&lt;/video>&lt;/p>
+&lt;p>&lt;strong>Acoustic-based Upper Facial Action Recognition for Smart Eyewear&lt;/strong>&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="upper_facial" src="./upper_facial.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;p>&lt;video src="./upper_facial.mp4" controls>&lt;/video>&lt;/p>
+&lt;p>&lt;strong>RimSense: Enabling Touch-based Interaction on Eyeglass Rim Using Piezoelectric Sensors&lt;/strong>&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="rimsense" src="./rimsense.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;p>&lt;video src="./rimsense.mp4" controls>&lt;/video>&lt;/p></description></item><item><title>mmWave in healthcare</title><link>https://qiansgroup.github.io/project/mmwave/</link><pubDate>Thu, 07 Mar 2024 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/mmwave/</guid><description>&lt;font size=3>
+&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
+&lt;/font></description></item><item><title>Wearables for Biomechanics</title><link>https://qiansgroup.github.io/project/muscle/</link><pubDate>Wed, 01 Nov 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/muscle/</guid><description>&lt;p>In the field of musculoskeletal (MSK) disease management, the role of biomechanics cannot be overstated. Biomechanics, the study of the mechanical forces and movements that occur within the human body, plays a pivotal role in understanding and improving the functioning of the musculoskeletal system. This is particularly crucial in the context of musculoskeletal diseases, such as knee osteoarthritis (KOA), which often require targeted approaches to restore mobility and enhance quality of life.&lt;/p>
+&lt;p>Our group recognize the significance of biomechanics in musculoskeletal disease management, specifically in the domain of KOA gait re-training. Gait re-training, a therapeutic intervention aimed at modifying abnormal walking patterns, has shown promising results in managing KOA. However, accurately assessing and quantifying biomechanical metrics during gait re-training has remained a challenge, hindering the optimization of treatment strategies.&lt;/p>
+&lt;p>To address this challenge, our interdisciplinary team is at the forefront of developing novel solutions that combine wearable sensing technologies with deep learning techniques. By integrating the power of wearable devices and advanced machine learning algorithms, we aim to enable precise and real-time estimation of biomechanics metrics for musculoskeletal disease management.&lt;/p>
+&lt;p>Our research methodology centers around leveraging deep learning-enhanced wearable sensing technologies to gain valuable insights into the biomechanics of individuals with musculoskeletal diseases, with a specific focus on KOA gait re-training. This approach offers several key advantages:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>We employ state-of-the-art wearable devices, such as inertial measurement units (IMUs) and smart textiles, to capture high-resolution data on joint angles, forces, and movement patterns. These non-invasive and unobtrusive sensors allow us to collect biomechanical data in real-world settings, enabling a more comprehensive understanding of gait dynamics.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Through the application of state-of-the-art deep learning algorithms, we harness the computational power necessary to analyze complex biomechanical data. By training neural networks on large datasets, we can extract meaningful patterns and relationships, facilitating accurate estimation of key biomechanical metrics for disease management.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>With a strong connection with professional MSK disease clinicians and patients, we have the ability to identify real clinical demands and facilitate wearable sensing technology transfer from laboratory to clinics or home, trying to enable precise MSK disease management.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>By combining cutting-edge wearable sensing technologies with deep learning techniques, our team strives to revolutionize the field of disease rehabilitation. Our ultimate goal is to improve the outcomes of musculoskeletal disease management, particularly in the context of KOA gait re-training, by providing clinicians and patients with accurate and actionable biomechanical insights.&lt;/p></description></item><item><title>Ballistocardiograph for Health</title><link>https://qiansgroup.github.io/project/bcg/</link><pubDate>Sat, 15 Jul 2023 00:15:46 +0800</pubDate><guid>https://qiansgroup.github.io/project/bcg/</guid><description>&lt;p>The advent of several health-related challenges, including the rapid global aging of the population, has imposed a significant strain on the healthcare systems and associated costs. To alleviate this, there has been an escalating interest in non-invasive and privacy-preserving medical monitoring systems. Though traditional polysomnography (PSG) remains the gold standard for diagnosing disorders such as obstructive sleep apnea (OSA), its complexity, high cost, and invasive characteristics emphasize the importance of seeking alternative solutions. A promising alternate technology that has gained widespread interest among researchers due to its non-invasive nature and convenience is Ballistocardiography (BCG).&lt;/p>
+&lt;p>BCG is a non-invasive technology that captures the repetitive motions induced by heartbeats in the human body, resulting from the acceleration of blood as it is ejected and moved in large vessels. It measures mass movements in the body, triggered by the forces associated with heart contraction, thereby providing insights into the overall performance of the circulatory system. The Ballistocardiogram (BCG) signal documents the ballistic forces of the heart due to the abrupt ejection of blood into the great vessels during each heartbeat, encompassing breathing and body movement.&lt;/p>
+&lt;p>Overall, ballistocardiogram (BCG) is a non-contact technology that records the status of cardiovascular system. Analyzing BCG signals can achienve applications such as rspration, heartbeat, blood pressure and sleep monitirong. We are exploring further application in early screening and monitoring of disease progression using BCG signals.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>[IMWUT/UbiComp ’23] Yandao Huang, Minghui Qiu, Lin Chen, Zhencan Peng, Qian Zhang and Kaishun Wu, “NF-Heart: A Near-field Non-contact Continuous User Authentication System via Ballistocardiogram”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (1), 2023.&lt;/li>
+&lt;/ul>
+&lt;p>Here is a demo:&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;p>&lt;video src="./BCG2BP-demo-107.mp4" controls>&lt;/video>&lt;/p></description></item></channel></rss>
