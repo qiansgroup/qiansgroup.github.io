@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Healths | Qian's Group</title><link>https://qiansgroup.github.io/health/</link><atom:link href="https://qiansgroup.github.io/health/index.xml" rel="self" type="application/rss+xml"/><description>Healths</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0800</lastBuildDate><image><url>https://qiansgroup.github.io/media/icon_hu17f5e10f4582494e3190e5ce2ee17e7e_63771_512x512_fill_lanczos_center_3.png</url><title>Healths</title><link>https://qiansgroup.github.io/health/</link></image><item><title>Respiratory diseases (COPD, Ashma) monitoring and management</title><link>https://qiansgroup.github.io/health/pr/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/health/pr/</guid><description>&lt;font size=3>
+&lt;p>Pulmonary rehabilitation is important for individuals with chronic respiratory conditions, such as chronic obstructive pulmonary disease (COPD), asthma, pulmonary fibrosis, and others. Pulmonary rehabilitation plays a crucial role in improving the quality of life for individuals with chronic respiratory conditions. It helps individuals regain and maintain their functional abilities, manage symptoms effectively, and enhance their overall well-being. Our group focuses on how to monitor and assess pulmonary rehabilitation via wireless and portable sensing technologies, including Earphone, Speaker, Microphone as well as Depth Camera.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[ACM MobiCOM&amp;rsquo; 25] Chi Xu, Wentao Xie, Baichen Yang, Yizhen Zhang, Yanbin Gong, Jin Zhang, Wei Li, Shifang Yang, Qian Zhang. &amp;ldquo;EasySpiro: Assessing Lung Function via Arbitrary Exhalations on Commodity Earphones&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IEEE BSN, 2024] Yan Gong, Wentao Xie, Qian Zhang, and Shifang Yang, Hypergradient Descent Based Multi-Task Learning on Auscultation Point Guided Respiratory Sound Classification.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’24] Wentao Xie, Chi Xu, Yanbin Gong, Yu Wang, Yuxin Liu, Jin Zhang, Qian Zhang, Zeguang Zheng, and Shifang Yang, “DeepBreath: Breathing Exercise Assessment with a Depth Camera”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’23] Wentao Xie, Qingyong Hu, Jin Zhang, Qian Zhang, &amp;ldquo;EarSpiro: Earphone-based Spirometry for Lung Function Assessment&amp;rdquo;, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6 (4), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’22] Yanbin Gong, and Qian Zhang, &amp;ldquo;BreathMentor: Acoustic-based Diaphagmatic Breathing Monitor System”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IoTJ ’20] Wentao Xie, Runxin Tian, Jin Zhang, Qian Zhang, &amp;ldquo;Noncontact Respiration Detection Leveraging Music and Broadcast Signals&amp;rdquo;, IEEE Internet of Things Journal, 8 (4), 2020.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Demos:&lt;/strong>&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>EarSpiro&lt;/strong>
+&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>BreathMentor&lt;/strong>
+&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Degenerative neurological diseases (Parkinson, Cognitive) assessment and management</title><link>https://qiansgroup.github.io/health/mmwave/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/health/mmwave/</guid><description>&lt;font size=3>
+&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[ACM MobiCOM'25] Qingyong Hu, Yuxuan Zhou, Jinjian Wang, Zirui Huang, Guihua Li, Qianhui Xu, Qian Zhang. &amp;ldquo;mmTremor: Practical Tremor Monitoring for
+Parkinson’s Disease and Essential Tremor in Daily Life.&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp’24] M. Xue, Y. Zeng, S. Gu, Q. Zhang, B. Tian, and C. Chen. &amp;ldquo;SDE: Early Screening for Dry Eye Disease with Wireless Signals&amp;rdquo;, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Musculoskeletal diseases (KoA, ACL injury) monitoring and management</title><link>https://qiansgroup.github.io/health/muscle/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/health/muscle/</guid><description>&lt;font size=3>
+&lt;p>In the field of musculoskeletal (MSK) disease management, the role of biomechanics cannot be overstated. Biomechanics, the study of the mechanical forces and movements that occur within the human body, plays a pivotal role in understanding and improving the functioning of the musculoskeletal system. This is particularly crucial in the context of musculoskeletal diseases, such as knee osteoarthritis (KOA), which often require targeted approaches to restore mobility and enhance quality of life. Our group recognize the significance of biomechanics in musculoskeletal disease management, specifically in the domain of KOA gait re-training. Gait re-training, a therapeutic intervention aimed at modifying abnormal walking patterns, has shown promising results in managing KOA. However, accurately assessing and quantifying biomechanical metrics during gait re-training has remained a challenge, hindering the optimization of treatment strategies.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>[ACM IMWUT/Ubicomp’23] Baichen Yang, Xinyi Zhang, Jiaxi Zhang, Zirui Huang, Qiqi Lu, Jin Zhang, Hai Hu, Qian Zhang. &amp;ldquo;KneeGuard: A Calibration-free Wearable Monitoring System for Knee Osteoarthritis Gait Re-training via Effortless Wearing.&amp;rdquo; [&lt;a href="https://dl.acm.org/doi/10.1145/3699768" target="_blank" rel="noopener">paper&lt;/a>]&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Cardiovascular diseases monitoring</title><link>https://qiansgroup.github.io/health/bcg/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/health/bcg/</guid><description>&lt;font size=3>
+&lt;p>The increasing health challenges, particularly the global aging population, are straining healthcare systems and costs. This has driven interest in non-invasive, privacy-preserving medical monitoring systems. While polysomnography (PSG) is the standard for diagnosing disorders like obstructive sleep apnea (OSA), its complexity, cost, and invasiveness highlight the need for alternatives. Ballistocardiography (BCG) has emerged as a promising non-invasive solution, capturing body movements caused by heartbeats and blood flow acceleration. BCG measures these forces, offering insights into cardiovascular performance and documenting the heart&amp;rsquo;s ballistic forces during blood ejection. This non-contact technology is valuable for monitoring respiration, heartbeat, blood pressure, and sleep, and we are exploring its potential in early disease screening and progression monitoring.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>[IMWUT/UbiComp ’23] Yandao Huang, Minghui Qiu, Lin Chen, Zhencan Peng, Qian Zhang and Kaishun Wu, “NF-Heart: A Near-field Non-contact Continuous User Authentication System via Ballistocardiogram”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (1), 2023.&lt;/li>
+&lt;/ul>
+&lt;p>Here is a demo:&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;p>&lt;video src="./BCG2BP-demo-107.mp4" controls>&lt;/video>&lt;/p>
+&lt;/font></description></item><item><title>Health AI Study</title><link>https://qiansgroup.github.io/health/my_research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/health/my_research/</guid><description>&lt;font size=3>
+&lt;p>Pulmonary rehabilitation is important for individuals with chronic respiratory conditions, such as chronic obstructive pulmonary disease (COPD), asthma, pulmonary fibrosis, and others. Pulmonary rehabilitation plays a crucial role in improving the quality of life for individuals with chronic respiratory conditions. It helps individuals regain and maintain their functional abilities, manage symptoms effectively, and enhance their overall well-being. Our group focuses on how to monitor and assess pulmonary rehabilitation via wireless and portable sensing technologies, including Earphone, Speaker, Microphone as well as Depth Camera.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[ACM MobiCOM&amp;rsquo; 25] Chi Xu, Wentao Xie, Baichen Yang, Yizhen Zhang, Yanbin Gong, Jin Zhang, Wei Li, Shifang Yang, Qian Zhang. &amp;ldquo;EasySpiro: Assessing Lung Function via Arbitrary Exhalations on Commodity Earphones&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IEEE BSN, 2024] Yan Gong, Wentao Xie, Qian Zhang, and Shifang Yang, Hypergradient Descent Based Multi-Task Learning on Auscultation Point Guided Respiratory Sound Classification.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’24] Wentao Xie, Chi Xu, Yanbin Gong, Yu Wang, Yuxin Liu, Jin Zhang, Qian Zhang, Zeguang Zheng, and Shifang Yang, “DeepBreath: Breathing Exercise Assessment with a Depth Camera”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’23] Wentao Xie, Qingyong Hu, Jin Zhang, Qian Zhang, &amp;ldquo;EarSpiro: Earphone-based Spirometry for Lung Function Assessment&amp;rdquo;, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6 (4), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’22] Yanbin Gong, and Qian Zhang, &amp;ldquo;BreathMentor: Acoustic-based Diaphagmatic Breathing Monitor System”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IoTJ ’20] Wentao Xie, Runxin Tian, Jin Zhang, Qian Zhang, &amp;ldquo;Noncontact Respiration Detection Leveraging Music and Broadcast Signals&amp;rdquo;, IEEE Internet of Things Journal, 8 (4), 2020.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Demos:&lt;/strong>&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>EarSpiro&lt;/strong>
+&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>BreathMentor&lt;/strong>
+&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;/font>
+&lt;hr></description></item></channel></rss>

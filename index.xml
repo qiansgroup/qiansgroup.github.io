@@ -1,10 +1,199 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qian's Group</title><link>https://qiansgroup.github.io/</link><atom:link href="https://qiansgroup.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Qian's Group</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><image><url>https://qiansgroup.github.io/media/icon_hu17f5e10f4582494e3190e5ce2ee17e7e_63771_512x512_fill_lanczos_center_3.png</url><title>Qian's Group</title><link>https://qiansgroup.github.io/</link></image><item><title>Example Event</title><link>https://qiansgroup.github.io/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qian's Group</title><link>https://qiansgroup.github.io/</link><atom:link href="https://qiansgroup.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Qian's Group</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><image><url>https://qiansgroup.github.io/media/icon_hu17f5e10f4582494e3190e5ce2ee17e7e_63771_512x512_fill_lanczos_center_3.png</url><title>Qian's Group</title><link>https://qiansgroup.github.io/</link></image><item><title>Respiratory diseases (COPD, Ashma) monitoring and management</title><link>https://qiansgroup.github.io/health/pr/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/health/pr/</guid><description>&lt;font size=3>
+&lt;p>Pulmonary rehabilitation is important for individuals with chronic respiratory conditions, such as chronic obstructive pulmonary disease (COPD), asthma, pulmonary fibrosis, and others. Pulmonary rehabilitation plays a crucial role in improving the quality of life for individuals with chronic respiratory conditions. It helps individuals regain and maintain their functional abilities, manage symptoms effectively, and enhance their overall well-being. Our group focuses on how to monitor and assess pulmonary rehabilitation via wireless and portable sensing technologies, including Earphone, Speaker, Microphone as well as Depth Camera.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;li>
+&lt;p>[ACM MobiCOM&amp;rsquo; 25] Chi Xu, Wentao Xie, Baichen Yang, Yizhen Zhang, Yanbin Gong, Jin Zhang, Wei Li, Shifang Yang, Qian Zhang. &amp;ldquo;EasySpiro: Assessing Lung Function via Arbitrary Exhalations on Commodity Earphones&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IEEE BSN, 2024] Yan Gong, Wentao Xie, Qian Zhang, and Shifang Yang, Hypergradient Descent Based Multi-Task Learning on Auscultation Point Guided Respiratory Sound Classification.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’24] Wentao Xie, Chi Xu, Yanbin Gong, Yu Wang, Yuxin Liu, Jin Zhang, Qian Zhang, Zeguang Zheng, and Shifang Yang, “DeepBreath: Breathing Exercise Assessment with a Depth Camera”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’23] Wentao Xie, Qingyong Hu, Jin Zhang, Qian Zhang, &amp;ldquo;EarSpiro: Earphone-based Spirometry for Lung Function Assessment&amp;rdquo;, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6 (4), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’22] Yanbin Gong, and Qian Zhang, &amp;ldquo;BreathMentor: Acoustic-based Diaphagmatic Breathing Monitor System”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IoTJ ’20] Wentao Xie, Runxin Tian, Jin Zhang, Qian Zhang, &amp;ldquo;Noncontact Respiration Detection Leveraging Music and Broadcast Signals&amp;rdquo;, IEEE Internet of Things Journal, 8 (4), 2020.&lt;/p>
+&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Immersive HCI Techniques</title><link>https://qiansgroup.github.io/project/hci/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/hci/</guid><description>&lt;font size=3>
+&lt;p>&lt;strong>Demos:&lt;/strong>&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>EarSpiro&lt;/strong>
+&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>BreathMentor&lt;/strong>
+&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Respiratory diseases (COPD, Ashma) monitoring and management</title><link>https://qiansgroup.github.io/project/pr/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/pr/</guid><description>&lt;font size=3>
+&lt;p>Pulmonary rehabilitation is important for individuals with chronic respiratory conditions, such as chronic obstructive pulmonary disease (COPD), asthma, pulmonary fibrosis, and others. Pulmonary rehabilitation plays a crucial role in improving the quality of life for individuals with chronic respiratory conditions. It helps individuals regain and maintain their functional abilities, manage symptoms effectively, and enhance their overall well-being. Our group focuses on how to monitor and assess pulmonary rehabilitation via wireless and portable sensing technologies, including Earphone, Speaker, Microphone as well as Depth Camera.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[ACM MobiCOM&amp;rsquo; 25] Chi Xu, Wentao Xie, Baichen Yang, Yizhen Zhang, Yanbin Gong, Jin Zhang, Wei Li, Shifang Yang, Qian Zhang. &amp;ldquo;EasySpiro: Assessing Lung Function via Arbitrary Exhalations on Commodity Earphones&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IEEE BSN, 2024] Yan Gong, Wentao Xie, Qian Zhang, and Shifang Yang, Hypergradient Descent Based Multi-Task Learning on Auscultation Point Guided Respiratory Sound Classification.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’24] Wentao Xie, Chi Xu, Yanbin Gong, Yu Wang, Yuxin Liu, Jin Zhang, Qian Zhang, Zeguang Zheng, and Shifang Yang, “DeepBreath: Breathing Exercise Assessment with a Depth Camera”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’23] Wentao Xie, Qingyong Hu, Jin Zhang, Qian Zhang, &amp;ldquo;EarSpiro: Earphone-based Spirometry for Lung Function Assessment&amp;rdquo;, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6 (4), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’22] Yanbin Gong, and Qian Zhang, &amp;ldquo;BreathMentor: Acoustic-based Diaphagmatic Breathing Monitor System”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IoTJ ’20] Wentao Xie, Runxin Tian, Jin Zhang, Qian Zhang, &amp;ldquo;Noncontact Respiration Detection Leveraging Music and Broadcast Signals&amp;rdquo;, IEEE Internet of Things Journal, 8 (4), 2020.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Demos:&lt;/strong>&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>EarSpiro&lt;/strong>
+&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>BreathMentor&lt;/strong>
+&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Degenerative neurological diseases (Parkinson, Cognitive) assessment and management</title><link>https://qiansgroup.github.io/health/mmwave/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/health/mmwave/</guid><description>&lt;font size=3>
+&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[ACM MobiCOM'25] Qingyong Hu, Yuxuan Zhou, Jinjian Wang, Zirui Huang, Guihua Li, Qianhui Xu, Qian Zhang. &amp;ldquo;mmTremor: Practical Tremor Monitoring for
+Parkinson’s Disease and Essential Tremor in Daily Life.&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp’24] M. Xue, Y. Zeng, S. Gu, Q. Zhang, B. Tian, and C. Chen. &amp;ldquo;SDE: Early Screening for Dry Eye Disease with Wireless Signals&amp;rdquo;, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Musculoskeletal diseases (KoA, ACL injury) monitoring and management</title><link>https://qiansgroup.github.io/health/muscle/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/health/muscle/</guid><description>&lt;font size=3>
+&lt;p>In the field of musculoskeletal (MSK) disease management, the role of biomechanics cannot be overstated. Biomechanics, the study of the mechanical forces and movements that occur within the human body, plays a pivotal role in understanding and improving the functioning of the musculoskeletal system. This is particularly crucial in the context of musculoskeletal diseases, such as knee osteoarthritis (KOA), which often require targeted approaches to restore mobility and enhance quality of life. Our group recognize the significance of biomechanics in musculoskeletal disease management, specifically in the domain of KOA gait re-training. Gait re-training, a therapeutic intervention aimed at modifying abnormal walking patterns, has shown promising results in managing KOA. However, accurately assessing and quantifying biomechanical metrics during gait re-training has remained a challenge, hindering the optimization of treatment strategies.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>[ACM IMWUT/Ubicomp’23] Baichen Yang, Xinyi Zhang, Jiaxi Zhang, Zirui Huang, Qiqi Lu, Jin Zhang, Hai Hu, Qian Zhang. &amp;ldquo;KneeGuard: A Calibration-free Wearable Monitoring System for Knee Osteoarthritis Gait Re-training via Effortless Wearing.&amp;rdquo; [&lt;a href="https://dl.acm.org/doi/10.1145/3699768" target="_blank" rel="noopener">paper&lt;/a>]&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Cardiovascular diseases monitoring</title><link>https://qiansgroup.github.io/health/bcg/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/health/bcg/</guid><description>&lt;font size=3>
+&lt;p>The increasing health challenges, particularly the global aging population, are straining healthcare systems and costs. This has driven interest in non-invasive, privacy-preserving medical monitoring systems. While polysomnography (PSG) is the standard for diagnosing disorders like obstructive sleep apnea (OSA), its complexity, cost, and invasiveness highlight the need for alternatives. Ballistocardiography (BCG) has emerged as a promising non-invasive solution, capturing body movements caused by heartbeats and blood flow acceleration. BCG measures these forces, offering insights into cardiovascular performance and documenting the heart&amp;rsquo;s ballistic forces during blood ejection. This non-contact technology is valuable for monitoring respiration, heartbeat, blood pressure, and sleep, and we are exploring its potential in early disease screening and progression monitoring.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>[IMWUT/UbiComp ’23] Yandao Huang, Minghui Qiu, Lin Chen, Zhencan Peng, Qian Zhang and Kaishun Wu, “NF-Heart: A Near-field Non-contact Continuous User Authentication System via Ballistocardiogram”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (1), 2023.&lt;/li>
+&lt;/ul>
+&lt;p>Here is a demo:&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;p>&lt;video src="./BCG2BP-demo-107.mp4" controls>&lt;/video>&lt;/p>
+&lt;/font></description></item><item><title>Health AI Study</title><link>https://qiansgroup.github.io/health/my_research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/health/my_research/</guid><description>&lt;font size=3>
+&lt;p>Pulmonary rehabilitation is important for individuals with chronic respiratory conditions, such as chronic obstructive pulmonary disease (COPD), asthma, pulmonary fibrosis, and others. Pulmonary rehabilitation plays a crucial role in improving the quality of life for individuals with chronic respiratory conditions. It helps individuals regain and maintain their functional abilities, manage symptoms effectively, and enhance their overall well-being. Our group focuses on how to monitor and assess pulmonary rehabilitation via wireless and portable sensing technologies, including Earphone, Speaker, Microphone as well as Depth Camera.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[ACM MobiCOM&amp;rsquo; 25] Chi Xu, Wentao Xie, Baichen Yang, Yizhen Zhang, Yanbin Gong, Jin Zhang, Wei Li, Shifang Yang, Qian Zhang. &amp;ldquo;EasySpiro: Assessing Lung Function via Arbitrary Exhalations on Commodity Earphones&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IEEE BSN, 2024] Yan Gong, Wentao Xie, Qian Zhang, and Shifang Yang, Hypergradient Descent Based Multi-Task Learning on Auscultation Point Guided Respiratory Sound Classification.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’24] Wentao Xie, Chi Xu, Yanbin Gong, Yu Wang, Yuxin Liu, Jin Zhang, Qian Zhang, Zeguang Zheng, and Shifang Yang, “DeepBreath: Breathing Exercise Assessment with a Depth Camera”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’23] Wentao Xie, Qingyong Hu, Jin Zhang, Qian Zhang, &amp;ldquo;EarSpiro: Earphone-based Spirometry for Lung Function Assessment&amp;rdquo;, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6 (4), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp ’22] Yanbin Gong, and Qian Zhang, &amp;ldquo;BreathMentor: Acoustic-based Diaphagmatic Breathing Monitor System”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IoTJ ’20] Wentao Xie, Runxin Tian, Jin Zhang, Qian Zhang, &amp;ldquo;Noncontact Respiration Detection Leveraging Music and Broadcast Signals&amp;rdquo;, IEEE Internet of Things Journal, 8 (4), 2020.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Demos:&lt;/strong>&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>EarSpiro&lt;/strong>
+&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>BreathMentor&lt;/strong>
+&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;/font>
+&lt;hr></description></item><item><title>Degenerative neurological diseases (Parkinson, Cognitive) assessment and management</title><link>https://qiansgroup.github.io/project/mmwave/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/mmwave/</guid><description>&lt;font size=3>
+&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[ACM MobiCOM'25] Qingyong Hu, Yuxuan Zhou, Jinjian Wang, Zirui Huang, Guihua Li, Qianhui Xu, Qian Zhang. &amp;ldquo;mmTremor: Practical Tremor Monitoring for
+Parkinson’s Disease and Essential Tremor in Daily Life.&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/UbiComp’24] M. Xue, Y. Zeng, S. Gu, Q. Zhang, B. Tian, and C. Chen. &amp;ldquo;SDE: Early Screening for Dry Eye Disease with Wireless Signals&amp;rdquo;, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Cardiovascular diseases monitoring</title><link>https://qiansgroup.github.io/project/bcg/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/bcg/</guid><description>&lt;font size=3>
+&lt;p>The increasing health challenges, particularly the global aging population, are straining healthcare systems and costs. This has driven interest in non-invasive, privacy-preserving medical monitoring systems. While polysomnography (PSG) is the standard for diagnosing disorders like obstructive sleep apnea (OSA), its complexity, cost, and invasiveness highlight the need for alternatives. Ballistocardiography (BCG) has emerged as a promising non-invasive solution, capturing body movements caused by heartbeats and blood flow acceleration. BCG measures these forces, offering insights into cardiovascular performance and documenting the heart&amp;rsquo;s ballistic forces during blood ejection. This non-contact technology is valuable for monitoring respiration, heartbeat, blood pressure, and sleep, and we are exploring its potential in early disease screening and progression monitoring.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>[IMWUT/UbiComp ’23] Yandao Huang, Minghui Qiu, Lin Chen, Zhencan Peng, Qian Zhang and Kaishun Wu, “NF-Heart: A Near-field Non-contact Continuous User Authentication System via Ballistocardiogram”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (1), 2023.&lt;/li>
+&lt;/ul>
+&lt;p>Here is a demo:&lt;/p>
+&lt;!-- mp4格式 -->
+&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
+&lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
+&lt;/videos> -->
+&lt;p>&lt;video src="./BCG2BP-demo-107.mp4" controls>&lt;/video>&lt;/p>
+&lt;/font></description></item><item><title>Musculoskeletal diseases (KoA, ACL injury) monitoring and management</title><link>https://qiansgroup.github.io/project/muscle/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/muscle/</guid><description>&lt;font size=3>
+&lt;p>In the field of musculoskeletal (MSK) disease management, the role of biomechanics cannot be overstated. Biomechanics, the study of the mechanical forces and movements that occur within the human body, plays a pivotal role in understanding and improving the functioning of the musculoskeletal system. This is particularly crucial in the context of musculoskeletal diseases, such as knee osteoarthritis (KOA), which often require targeted approaches to restore mobility and enhance quality of life. Our group recognize the significance of biomechanics in musculoskeletal disease management, specifically in the domain of KOA gait re-training. Gait re-training, a therapeutic intervention aimed at modifying abnormal walking patterns, has shown promising results in managing KOA. However, accurately assessing and quantifying biomechanical metrics during gait re-training has remained a challenge, hindering the optimization of treatment strategies.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>[ACM IMWUT/Ubicomp’23] Baichen Yang, Xinyi Zhang, Jiaxi Zhang, Zirui Huang, Qiqi Lu, Jin Zhang, Hai Hu, Qian Zhang. &amp;ldquo;KneeGuard: A Calibration-free Wearable Monitoring System for Knee Osteoarthritis Gait Re-training via Effortless Wearing.&amp;rdquo; [&lt;a href="https://dl.acm.org/doi/10.1145/3699768" target="_blank" rel="noopener">paper&lt;/a>]&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Food nutrition, quality and safety monitoring</title><link>https://qiansgroup.github.io/project/nir/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/nir/</guid><description>&lt;font size=3>
+&lt;p>Dietary information is a critical dimension for health management. This information can be used to improve our health with self-awareness. If we can monitor food intake over the long term, it could enable doctors and nutritionists to study how chronic diseases are related to dietary habits and provide food suggestions for the population. Furthermore, some special populations have special needs for food intake and we need to pay extra attention to them. In this part, we mainly care about general food nutrition and type detection for normal people, and give special attention to the infants to monitor baby food nutrients. We introduce NIRSCAM, a new design that can recognize food calories and nutrients during the intake process, without on-body instruments. Furthermore, we build a low-cost spectrometer system for accurate baby food nutrient monitoring, named BabyNutri, which costs less than 10 dollars but achieves comparable performance to commercial solutions.&lt;/p>
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[ACM MobiCOM&amp;rsquo; 24] Haiyan Hu, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, Qian Zhang. &amp;ldquo;MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging.&amp;rdquo; [&lt;a href="https://dl.acm.org/doi/10.1145/3636534.3690666" target="_blank" rel="noopener">paper&lt;/a>]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT/Ubicomp’23] Haiyan Hu, Qianyi Huang, and Qian Zhang. &amp;ldquo;BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction.&amp;rdquo; [&lt;a href="https://dl.acm.org/doi/10.1145/3580858" target="_blank" rel="noopener">paper&lt;/a>]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[IEEE IoTJ’22] Haiyan Hu, Qian Zhang and Yanjiao Chen, &amp;ldquo;NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation.&amp;rdquo; [&lt;a href="https://ieeexplore.ieee.org/document/9745595" target="_blank" rel="noopener">paper&lt;/a>]&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/font></description></item><item><title>Modern Interactive Techniques</title><link>https://qiansgroup.github.io/project/hci/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/hci/</guid><description>&lt;font size=3>
 &lt;p>With the development of sensor and mobile computing technologies, IoT devices have become an integral part of our daily lives. From smart homes and wearable devices to industrial automation and healthcare monitoring, these devices are transforming the way we interact with the world around us. Our research scope spans a broad spectrum of aspects, including sensor design, algorithm development, and empirical user studies. We explore innovative sensor technologies that can be embedded directly into IoT devices, enabling rich and responsive interactions. Our algorithm work focuses on optimizing the signal-processing and machine-learning pipelines to process the sensory data. Additionally, we conduct comprehensive technical evaluations and user studies to understand the needs and preferences of users, guiding the design of our interaction techniques to be both practical and user-friendly.&lt;/p>
 &lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
 &lt;ul>
@@ -42,75 +231,7 @@
 &lt;source id="rimsense" src="./rimsense.mp4" type="video/mp4">
 &lt;/videos> -->
 &lt;p>&lt;video src="./rimsense.mp4" controls>&lt;/video>&lt;/p>
-&lt;/font></description></item><item><title>Smart Pulmonary Caring</title><link>https://qiansgroup.github.io/project/pr/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/pr/</guid><description>&lt;font size=3>
-&lt;p>Pulmonary rehabilitation is important for individuals with chronic respiratory conditions, such as chronic obstructive pulmonary disease (COPD), asthma, pulmonary fibrosis, and others. Pulmonary rehabilitation plays a crucial role in improving the quality of life for individuals with chronic respiratory conditions. It helps individuals regain and maintain their functional abilities, manage symptoms effectively, and enhance their overall well-being. Our group focuses on how to monitor and assess pulmonary rehabilitation via wireless and portable sensing technologies, including Earphone, Speaker, Microphone as well as Depth Camera.&lt;/p>
-&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>[IEEE BSN, 2024] Y. Gong, W. Xie, Q. Zhang, and S. Yang, Hypergradient Descent Based Multi-Task Learning on Auscultation Point Guided Respiratory Sound Classification.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IMWUT/UbiComp ’24] W. Xie, C. Xu, Y. Gong, Y. Wang, Y. Liu, J. Zhang, Q. Zhang, Z. Zheng, and S. Yang, “DeepBreath: Breathing Exercise Assessment with a Depth Camera”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IMWUT/UbiComp ’23] Wentao Xie, Qingyong Hu, Jin Zhang, Qian Zhang, &amp;ldquo;EarSpiro: Earphone-based Spirometry for Lung Function Assessment&amp;rdquo;, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6 (4), 2022.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IMWUT/UbiComp ’22] Y. Gong, and Q. Zhang, &amp;ldquo;BreathMentor: Acoustic-based Diaphagmatic Breathing Monitor System”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IoTJ ’20] Wentao Xie, Runxin Tian, Jin Zhang, Qian Zhang, &amp;ldquo;Noncontact Respiration Detection Leveraging Music and Broadcast Signals&amp;rdquo;, IEEE Internet of Things Journal, 8 (4), 2020.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Demos:&lt;/strong>&lt;/p>
-&lt;!-- mp4格式 -->
-&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
-&lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
-&lt;/videos> -->
-&lt;ul>
-&lt;li>&lt;strong>EarSpiro&lt;/strong>
-&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/li>
-&lt;/ul>
-&lt;!-- mp4格式 -->
-&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
-&lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
-&lt;/videos> -->
-&lt;ul>
-&lt;li>&lt;strong>BreathMentor&lt;/strong>
-&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/li>
-&lt;/ul>
-&lt;/font></description></item><item><title>Spectroscopy for Food</title><link>https://qiansgroup.github.io/project/nir/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/nir/</guid><description>&lt;font size=3>
-&lt;p>Dietary information is a critical dimension for health management. This information can be used to improve our health with self-awareness. If we can monitor food intake over the long term, it could enable doctors and nutritionists to study how chronic diseases are related to dietary habits and provide food suggestions for the population. Furthermore, some special populations have special needs for food intake and we need to pay extra attention to them. In this part, we mainly care about general food nutrition and type detection for normal people, and give special attention to the infants to monitor baby food nutrients. We introduce NIRSCAM, a new design that can recognize food calories and nutrients during the intake process, without on-body instruments. Furthermore, we build a low-cost spectrometer system for accurate baby food nutrient monitoring, named BabyNutri, which costs less than 10 dollars but achieves comparable performance to commercial solutions.&lt;/p>
-&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>[ACM IMWUT/Ubicomp’23] Haiyan Hu, Qianyi Huang, and Qian Zhang. &amp;ldquo;BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction.&amp;rdquo; [&lt;a href="https://dl.acm.org/doi/10.1145/3580858" target="_blank" rel="noopener">paper&lt;/a>]&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[IEEE IoTJ’22] Haiyan Hu, Qian Zhang and Yanjiao Chen, &amp;ldquo;NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation.&amp;rdquo; [&lt;a href="https://ieeexplore.ieee.org/document/9745595" target="_blank" rel="noopener">paper&lt;/a>]&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;/font></description></item><item><title>mmWave in Healthcare</title><link>https://qiansgroup.github.io/project/mmwave/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/mmwave/</guid><description>&lt;font size=3>
-&lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
-&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>[IMWUT/UbiComp’24] M. Xue, Y. Zeng, S. Gu, Q. Zhang, B. Tian, and C. Chen, “SDE: Early Screening for Dry Eye Disease with Wireless Signals”, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/li>
-&lt;/ul>
-&lt;/font></description></item><item><title>Wearables for Biomechanics</title><link>https://qiansgroup.github.io/project/muscle/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/muscle/</guid><description>&lt;font size=3>
-&lt;p>In the field of musculoskeletal (MSK) disease management, the role of biomechanics cannot be overstated. Biomechanics, the study of the mechanical forces and movements that occur within the human body, plays a pivotal role in understanding and improving the functioning of the musculoskeletal system. This is particularly crucial in the context of musculoskeletal diseases, such as knee osteoarthritis (KOA), which often require targeted approaches to restore mobility and enhance quality of life. Our group recognize the significance of biomechanics in musculoskeletal disease management, specifically in the domain of KOA gait re-training. Gait re-training, a therapeutic intervention aimed at modifying abnormal walking patterns, has shown promising results in managing KOA. However, accurately assessing and quantifying biomechanical metrics during gait re-training has remained a challenge, hindering the optimization of treatment strategies.&lt;/p>
-&lt;/font></description></item><item><title>Ballistocardiograph for Health</title><link>https://qiansgroup.github.io/project/bcg/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/bcg/</guid><description>&lt;font size=3>
-&lt;p>The increasing health challenges, particularly the global aging population, are straining healthcare systems and costs. This has driven interest in non-invasive, privacy-preserving medical monitoring systems. While polysomnography (PSG) is the standard for diagnosing disorders like obstructive sleep apnea (OSA), its complexity, cost, and invasiveness highlight the need for alternatives. Ballistocardiography (BCG) has emerged as a promising non-invasive solution, capturing body movements caused by heartbeats and blood flow acceleration. BCG measures these forces, offering insights into cardiovascular performance and documenting the heart&amp;rsquo;s ballistic forces during blood ejection. This non-contact technology is valuable for monitoring respiration, heartbeat, blood pressure, and sleep, and we are exploring its potential in early disease screening and progression monitoring.&lt;/p>
-&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>[IMWUT/UbiComp ’23] Yandao Huang, Minghui Qiu, Lin Chen, Zhencan Peng, Qian Zhang and Kaishun Wu, “NF-Heart: A Near-field Non-contact Continuous User Authentication System via Ballistocardiogram”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (1), 2023.&lt;/li>
-&lt;/ul>
-&lt;p>Here is a demo:&lt;/p>
-&lt;!-- mp4格式 -->
-&lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
-&lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
-&lt;/videos> -->
-&lt;p>&lt;video src="./BCG2BP-demo-107.mp4" controls>&lt;/video>&lt;/p>
-&lt;/font></description></item><item><title>RIS-assisted Wi-Fi Sensing</title><link>https://qiansgroup.github.io/project/rf/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/rf/</guid><description>&lt;font size=3>
+&lt;/font></description></item><item><title>Efficient Communication among AIoT devices</title><link>https://qiansgroup.github.io/project/communication/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/communication/</guid><description>&lt;font size=3>
 &lt;p>As we all know, current Wi-Fi sesning systems exist many open issues, such as bad performance in NLoS and multi-user scenarios. Recently, Reconfigurable Intelligent Surface (RIS), as known as a promising technique in 6G communication, brings us new capabilities and is promising to make RF sensing systems more practical and robust.&lt;/p>
 &lt;p>A Reconfigurable Intelligent Surface (RIS), also known as an Intelligent Reflecting Surface (IRS), comprises an array of reflected antenna elements, each of which can independently incur some change to the incident signal. The rising of RIS provides us many potential solutions to solve these open issues. We propose that RIS can support three new capabilities to current Wi-Fi sensing systems. First, RIS provides a new and controllable transmission path to bypass obstacles. Second, it can also concentrate the wireless energy reflected by RIS to certain regions of interest (ROI). Third, RIS can proactively change the wireless environment, which makes it useful for attack applications.&lt;/p>
 &lt;!--
@@ -123,14 +244,29 @@ What's more, we propose RIScan, a parallel multi-user indoor localization system
 Futhermore, we find it interesting that the new capabilities brought by RIS also pose challenges to the security of traditional Wi-Fi awareness systems. Now the WiFi signal has been leveraged by some commercial Intrusion Detection system to protect people. The system generates an alarm by detecting disturbances in the Wi-Fi channel caused by the movement of an intruder. Due to the capability of RIS to proactively change the wireless environment, we propose a two-phase attack that combines reflection reduction and threshold lifting, they are Sneaking Phase and Radio Blast Phase. Specifically, we use RIS to successfully confuse the intrusion detection system by first reflecting the intruder's reflected signal to a place where the detection system's receiver cannot detect it and then generating a directional disturbance signal to increase the system's detection threshold. -->
 &lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>
-&lt;p>[SenSys ’23] Chenggao LI, Qianyi HUANG, Yuxuan ZHOU, Yandao HUANG, Qingyong HU, Huangxun CHEN and Qian Zhang, &amp;ldquo;RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi.&amp;rdquo; Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems. 2023.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[SenSys ’23] Yuxuan ZHOU, Chenggao LI, Huangxun CHEN and Qian Zhang, &amp;ldquo;RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface.&amp;rdquo; Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems. 2023.&lt;/p>
-&lt;/li>
+&lt;li>[SenSys ’23] Chenggao LI, Qianyi HUANG, Yuxuan ZHOU, Yandao HUANG, Qingyong HU, Huangxun CHEN and Qian Zhang, &amp;ldquo;RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi.&amp;rdquo; Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems. 2023.
+&lt;/font>&lt;/li>
+&lt;/ul></description></item><item><title>Secure Communication and Spoofing Issue for AIoT sensing</title><link>https://qiansgroup.github.io/project/secure/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/secure/</guid><description>&lt;font size=3>
+&lt;p>The emerging reconfigurable intelligent surface (RIS) technique introduces novel threats to wireless sensing owing to its channel customization ability. Unlike active radios, the RIS’s interference behaves akin to natural reflections, exhibiting a higher level of stealthiness and difficulty in detection. However, the majority of current RIS-based attacks lack generalizability to real-world scenarios, as they assume complete coverage of the RIS over objects and develop their techniques within electromagnetic-controlled environments such as an anechoic chamber.&lt;/p>
+&lt;!--
+![](featured.png "RIS prototype")
+To verify them in a real environment, we implemented a RIS prototype. As shown in the figure, our prototype comprises a RIS and a FPGA-based control circuit.
+The smart surface has 16 × 16 antenna elements with a size of 31𝑐𝑚 × 31𝑐𝑚 × 0.4𝑐𝑚. Each element has a 2-bit phase configuration, four different phase offsets (i.e., 0, 𝜋 /2, 𝜋 , and 3𝜋 /2 ). Its central frequency is 5.5GHz and it has a bandwidth of 600MHz, which makes the working band cover the whole 5GHz Wi-Fi band. The FPGA-based control circuit provides 512 independent IOs and its latency to update all the IO ports is at a microsecond level and guarantees the fast configuration switch.
+![](RIScan.png "RIScan")
+What's more, we propose RIScan, a parallel multi-user indoor localization system with a pair of Reconfigurable Intelligent Surfaces. In RIScan, we realize a localization system with low latency and high robustness to dynamic interference from surrounding people in multi-user scenario. Our key insight is to utilize the reconfigurability of RIS. To achieve low localization latency, we leverage RIS to reflect Wi-Fi signals in the environment and create steerable Wi-Fi beams. Then execute reflective beam scanning and the users can estimate their locations concurrently with a series of channel estimations. To be robust, we apply a CSI difference and phase pattern detection to separate the RIS component and suppress the dynamic interference in the environment. We deploy our system in a real environment and the experiments show that RIScan achieves a good performance.
+![](RIStealth.png "RIStealth")
+Futhermore, we find it interesting that the new capabilities brought by RIS also pose challenges to the security of traditional Wi-Fi awareness systems. Now the WiFi signal has been leveraged by some commercial Intrusion Detection system to protect people. The system generates an alarm by detecting disturbances in the Wi-Fi channel caused by the movement of an intruder. Due to the capability of RIS to proactively change the wireless environment, we propose a two-phase attack that combines reflection reduction and threshold lifting, they are Sneaking Phase and Radio Blast Phase. Specifically, we use RIS to successfully confuse the intrusion detection system by first reflecting the intruder's reflected signal to a place where the detection system's receiver cannot detect it and then generating a directional disturbance signal to increase the system's detection threshold. -->
+&lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>[SenSys ’23] Yuxuan ZHOU, Chenggao LI, Huangxun CHEN and Qian Zhang, &amp;ldquo;RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface.&amp;rdquo; Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems. 2023.&lt;/li>
 &lt;/ul>
-&lt;/font></description></item><item><title>Contact</title><link>https://qiansgroup.github.io/contact/</link><pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/contact/</guid><description/></item><item><title>People</title><link>https://qiansgroup.github.io/people/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/people/</guid><description/></item><item><title>Tour</title><link>https://qiansgroup.github.io/tour/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/tour/</guid><description/></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://qiansgroup.github.io/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
+&lt;/font></description></item><item><title>Example Event</title><link>https://qiansgroup.github.io/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Contact</title><link>https://qiansgroup.github.io/contact/</link><pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/contact/</guid><description/></item><item><title>People</title><link>https://qiansgroup.github.io/people/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/people/</guid><description/></item><item><title>Tour</title><link>https://qiansgroup.github.io/tour/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/tour/</guid><description/></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://qiansgroup.github.io/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p>
 &lt;p>Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p>
 &lt;p>Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p></description></item><item><title>Publication</title><link>https://qiansgroup.github.io/publication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qiansgroup.github.io/publication/</guid><description/></item></channel></rss>
