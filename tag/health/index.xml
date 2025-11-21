@@ -74,33 +74,29 @@ H. Lin, H. Su, Q. Zhang, Q. Zhang, S. Yang. &amp;ldquo;AI-Driven Smartphone Scre
 &lt;source id="earspiro" src="./earspiro.mp4" type="video/mp4">
 &lt;/videos> -->
 &lt;ul>
-&lt;li>&lt;strong>EarSpiro&lt;/strong>
-&lt;video src="./earspiro.mp4" controls>&lt;/video>&lt;/li>
+&lt;li>&lt;strong>EarSpiro&lt;/strong>&lt;/li>
 &lt;/ul>
+&lt;iframe src="https://player.vimeo.com/video/1139435194" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
 &lt;!-- mp4格式 -->
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="breathmentor" src="./breathmentor.mp4" type="video/mp4">
 &lt;/videos> -->
 &lt;ul>
-&lt;li>
-&lt;p>&lt;strong>BreathMentor&lt;/strong>
-&lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>DeepBreath&lt;/strong>&lt;/p>
-&lt;/li>
+&lt;li>&lt;strong>BreathMentor&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://player.vimeo.com/video/1139435170" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
+&lt;ul>
+&lt;li>&lt;strong>DeepBreath&lt;/strong>&lt;/li>
 &lt;/ul>
 &lt;iframe src="https://player.vimeo.com/video/1137625207" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
 &lt;ul>
-&lt;li>
-&lt;p>&lt;strong>EasySpiro&lt;/strong>
-&lt;video src="./EasySpiro.mp4" controls>&lt;/video>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>AECOPD&lt;/strong>
-&lt;video src="./AECOPD.mp4" controls>&lt;/video>&lt;/p>
-&lt;/li>
+&lt;li>&lt;strong>EasySpiro&lt;/strong>&lt;/li>
 &lt;/ul>
+&lt;iframe src="https://player.vimeo.com/video/1137625361" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
+&lt;ul>
+&lt;li>&lt;strong>AECOPD&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://player.vimeo.com/video/1137625182" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
 &lt;/font></description></item><item><title>Neurological Disease Home Management</title><link>https://qiansgroup.github.io/health/mmwave/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/health/mmwave/</guid><description>&lt;font size=3>
 &lt;p>In-home healthcare has become an increasingly popular option for individuals who require continuous medical attention. This type of healthcare service allows individuals to receive necessary medical attention in the comfort of their own homes, rather than having to travel to a hospital or clinic. In-home healthcare services can be particularly beneficial for elderly individuals who may have mobility limitations or chronic conditions that require regular monitoring. Additionally, in-home healthcare services can provide a more personalized approach to healthcare, as healthcare professionals can tailor their services to meet the specific needs of each individual. With the help of modern technology, such as mmWave, in-home healthcare services have become more accessible and cost-effective, providing a promising option for elderly wellness management.&lt;/p>
 &lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
@@ -215,9 +211,13 @@ Parkinson’s Disease and Essential Tremor in Daily Life.&amp;rdquo;&lt;/p>
 &lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
 &lt;/videos> -->
 &lt;ul>
-&lt;li>&lt;strong>FiberBP&lt;/strong>
-&lt;video src="./BCG2BP-demo-107.mp4" controls>&lt;/video>&lt;/li>
+&lt;li>&lt;strong>FiberBP&lt;/strong>&lt;/li>
 &lt;/ul>
+&lt;iframe src="https://player.vimeo.com/video/1139435906" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
+&lt;ul>
+&lt;li>&lt;strong>WaveBP&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://player.vimeo.com/video/1139437083" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
 &lt;/font></description></item><item><title>Musculoskeletal Disease Management</title><link>https://qiansgroup.github.io/project/muscle/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/muscle/</guid><description>&lt;font size=3>
 &lt;p>In the field of musculoskeletal (MSK) disease management, the role of biomechanics cannot be overstated. Biomechanics, the study of the mechanical forces and movements that occur within the human body, plays a pivotal role in understanding and improving the functioning of the musculoskeletal system. This is particularly crucial in the context of musculoskeletal diseases, such as knee osteoarthritis (KOA), which often require targeted approaches to restore mobility and enhance quality of life. Our group recognize the significance of biomechanics in musculoskeletal disease management, specifically in the domain of KOA gait re-training. Gait re-training, a therapeutic intervention aimed at modifying abnormal walking patterns, has shown promising results in managing KOA. However, accurately assessing and quantifying biomechanical metrics during gait re-training has remained a challenge, hindering the optimization of treatment strategies.&lt;/p>
 &lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>

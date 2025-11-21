@@ -23,17 +23,17 @@
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="acoustic_strength" src="./acoustic_strength.mp4" type="video/mp4">
 &lt;/videos> -->
-&lt;p>&lt;video src="./acoustic_strength.mp4" controls>&lt;/video>&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/1139435152" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
 &lt;p>&lt;strong>Acoustic-based Upper Facial Action Recognition for Smart Eyewear&lt;/strong>&lt;/p>
 &lt;!-- mp4格式 -->
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="upper_facial" src="./upper_facial.mp4" type="video/mp4">
 &lt;/videos> -->
-&lt;p>&lt;video src="./upper_facial.mp4" controls>&lt;/video>&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/1139435212" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
 &lt;p>&lt;strong>RimSense: Enabling Touch-based Interaction on Eyeglass Rim Using Piezoelectric Sensors&lt;/strong>&lt;/p>
 &lt;!-- mp4格式 -->
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="rimsense" src="./rimsense.mp4" type="video/mp4">
 &lt;/videos> -->
-&lt;p>&lt;video src="./rimsense.mp4" controls>&lt;/video>&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/1137625182" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
 &lt;/font></description></item></channel></rss>
