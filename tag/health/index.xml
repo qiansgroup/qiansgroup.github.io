@@ -87,9 +87,11 @@ H. Lin, H. Su, Q. Zhang, Q. Zhang, S. Yang. &amp;ldquo;AI-Driven Smartphone Scre
 &lt;video src="./breathmentor.mp4" controls>&lt;/video>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;strong>DeepBreath&lt;/strong>
-&lt;video src="./DeepBreath.mp4" controls>&lt;/video>&lt;/p>
+&lt;p>&lt;strong>DeepBreath&lt;/strong>&lt;/p>
 &lt;/li>
+&lt;/ul>
+&lt;iframe src="https://player.vimeo.com/video/1137625207" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
+&lt;ul>
 &lt;li>
 &lt;p>&lt;strong>EasySpiro&lt;/strong>
 &lt;video src="./EasySpiro.mp4" controls>&lt;/video>&lt;/p>
