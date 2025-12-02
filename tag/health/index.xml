@@ -99,24 +99,38 @@ H. Lin, H. Su, Q. Zhang, Q. Zhang, S. Yang. &amp;ldquo;AI-Driven Smartphone Scre
 &lt;p>[ACM IMWUT 2024] M. Xue, Y. Zeng, S. Gu, Q. Zhang, B. Tian, and C. Chen. &amp;ldquo;SDE: Early Screening for Dry Eye Disease with Wireless Signals&amp;rdquo;, in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;/font></description></item><item><title>Continous Blood Pressure Monitoring</title><link>https://qiansgroup.github.io/project/bp/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/bp/</guid><description>&lt;font size=3>
-&lt;p>The increasing health challenges, particularly the global aging population, are straining healthcare systems and costs. This has driven interest in non-invasive, privacy-preserving medical monitoring systems. While polysomnography (PSG) is the standard for diagnosing disorders like obstructive sleep apnea (OSA), its complexity, cost, and invasiveness highlight the need for alternatives. Ballistocardiography (BCG) has emerged as a promising non-invasive solution, capturing body movements caused by heartbeats and blood flow acceleration. BCG measures these forces, offering insights into cardiovascular performance and documenting the heart&amp;rsquo;s ballistic forces during blood ejection. This non-contact technology is valuable for monitoring respiration, heartbeat, blood pressure, and sleep, and we are exploring its potential in early disease screening and progression monitoring.&lt;/p>
+&lt;/font></description></item><item><title>Continous Blood Pressure Monitoring</title><link>https://qiansgroup.github.io/project/bp/</link><pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate><guid>https://qiansgroup.github.io/project/bp/</guid><description>&lt;p>&lt;font size=3> Hypertension is a major cause of premature death worldwide. According to a WHO report, around 1.28 billion
+adults aged 30–79 years worldwide have hypertension. High blood pressure (BP) usually has no obvious symptoms
+but it’s a major risk factor for stroke, heart failure, and dementia. Frequent BP monitoring is crucial for abnormal BP assessment and BP management. The oscillometric method is the most commonly adopted way to measure BP. However, repeated measurements in this way can cause discomfort and, in some cases, injury during frequent BP measurements. We have developed three cuffless BP monitoring systems that enable comfortable BP monitoring in all daily scenarios. First, WaveBP is designed for Daytime use and provides contactless arterial BP waveform sensing using mmWave Radar. It utilizes heartbeats as a bridge between mmWave and Arterial Blood Pressure Waveform (ABPW). Second, FiberBP is a non-wearable system for Nighttime, offering continuous, ballistocardiography (BCG)-based BP tracking. It uses a smart mat under the pillow to monitor BP without disturbing sleep. At last, we found that calibration is necessary for cuffless BP meaurement device to achieve accurate BP measurement within people with abnormal BP. PracticalBP is a wrist-worn device for Easy Calibration and continuous cuffless BP monitoring. It is a cuffless system that requires only a 4-minute calibration based on two physiological principles. PracticalBP can easily provide accurate calibrated BP samples for WaveBP and FiberBP. These three systems form our cuffless BP monitoring ecosystem. WaveBP and FiberBP cover daytime and nighttime scenarios at home, respectively. PracticalBP provides accurate BP monitoring outdoors.&lt;/p>
 &lt;p>&lt;strong>Related publications:&lt;/strong>&lt;/p>
+&lt;!-- - [ACM SenSys 2026] L. Chen, Y. Huang, C. Li, J. Chen, S. Zhong, M. Qiu, C. Guo, Y. Wang, Q. Zhang, and K. Wu, "Med2ECG: Medical-Guided BCG-to-ECG Reconstruction for Diverse Populations" -->
 &lt;ul>
-&lt;li>
-&lt;p>[ACM SenSys 2026] L. Chen, Y. Huang, C. Li, J. Chen, S. Zhong, M. Qiu, C. Guo, Y. Wang, Q. Zhang, and K. Wu, &amp;ldquo;Med2ECG: Medical-Guided BCG-to-ECG Reconstruction for Diverse Populations&amp;rdquo;&lt;/p>
-&lt;/li>
 &lt;li>
 &lt;p>[ACM Mobicom 2025] Y. Huang, C. Li, C. Li, L. Chen, J. Peng, Q. Zhang, and K. Wu, &amp;ldquo;Poster: Contactless Cardiovascular Hemodynamics Inference and Hypertension Detection&amp;rdquo;&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[ACM IMWUTbiComp 2025] C. Li, J. Peng, Q. Hu, L. Chen, Y. Huang, S. Wu, W. Cheng, Q. Zhang, &amp;ldquo;PracticalBP: Continuous Cuffless Blood Pressure Monitoring with Only One Record for Calibration&amp;rdquo;&lt;/p>
+&lt;p>[ACM IMWUT 2025] C. Li, J. Peng, Q. Hu, L. Chen, Y. Huang, S. Wu, W. Cheng, Q. Zhang, &amp;ldquo;PracticalBP: Continuous Cuffless Blood Pressure Monitoring with Only One Record for Calibration&amp;rdquo;&lt;/p>
+&lt;br/>
+&lt;p>&lt;em>&lt;strong>Introduction&lt;/strong>: PracticalBP is a novel cuffless wrist-worn system addressing the calibration and accuracy issues of current BP monitoring devices. It achieves accurate BP measurements with only a single BP reading for calibration. The system generates user-specific hemodynamic information using a physiology-based pseudo-label generation mechanism, requiring the user only to rest and tilt the arm. It employs a feature extraction approach with an attention module for personalization and channel-based data augmentation for robustness. Validated on 43 participants (25 healthy, 18 hypertensive), PracticalBP meets the AAMI standard and reduces calibration time by a factor of five compared to state-of-the-art solutions.&lt;/em>&lt;/p>
+&lt;br/>
 &lt;/li>
 &lt;li>
 &lt;p>[ACM IMWUT 2025] Q. Hu, Q. Zhang, H. Lu, S. Wu, W. Zhou, Q. Huang, H. Chen, Y. Chen, N. Zhao, &amp;ldquo;Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar&amp;rdquo;&lt;/p>
+&lt;br/>
+&lt;p>&lt;em>&lt;strong>Introduction&lt;/strong>: WaveBP is the first contactless ABPW monitoring system using commercial mmWave radar. It uses cardiac information as a bridge between mmWave signals and ABPW. The system features the hybrid Transformer model mmFormer for waveform detail preservation and employs beamforming data augmentation and a cross-modality knowledge transfer framework for enhanced robustness and accuracy. Validated on 43 subjects, WaveBP achieves a high waveform correlation of 0.903 and low point-level error, showing potential for cardiac abnormality detection.&lt;/em>&lt;/p>
+&lt;br/>
 &lt;/li>
 &lt;li>
-&lt;p>[ACM IMWUT 2023] Y. Huang, M. Qiu, L. Chen, Z. Peng, Q. Zhang and K. Wu, “NF-Heart: A Near-field Non-contact Continuous User Authentication System via Ballistocardiogram”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (1), 2023.&lt;/p>
+&lt;p>[Communications Engineering 2024] Y. Huang, L. Chen, C. Li, J. Peng, Q. Hu, Y. Sun, R. Hao, W. Lyu, J. Wen, J. Tian, C. Yu, W. Cheng, K. Wu and Q. Zhang, &amp;ldquo;AI-driven system for non-contact continuous nocturnal blood pressure monitoring using fiber optic ballistocardiography&amp;rdquo;, Communications Engineering, 3(1), 183.&lt;/p>
+&lt;br/>
+&lt;p>&lt;em>&lt;strong>Introduction&lt;/strong>: This innovative, non-contact system is designed for continuous nocturnal BP monitoring, overcoming the challenges of invasive and sleep-disrupting clinical methods. It utilizes ballistocardiogram (BCG) signals captured accurately by advanced, flexible fiber optic sensors placed in the bed. An AI model processes the data by extracting deep learning and physically-meaningful features, implementing an efficient, lightweight personalization scheme. Crucially, the system includes an algorithm to automatically detect the user’s sleeping posture, ensuring accurate BP measurement. The system was rigorously evaluated on 158 subjects and is suitable for real-world, unconstrained sleeping scenarios, enhancing hypertension management and providing new insights for cardiovascular research.&lt;/em>&lt;/p>
+&lt;br/>
+&lt;/li>
+&lt;li>
+&lt;p>[ACM IMWUT 2023] Y. Huang, M. Qiu, L. Chen, Z. Peng, Q. Zhang and K. Wu, “NF-Heart: A Near-field Non-contact Continuous User Authentication System via Ballistocardiogram”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7 (1), 2023.
+&lt;br/>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Introduction&lt;/strong>: To address cybersecurity concerns from remote work, NF-Heart, a physiological Continuous Authentication (CA) system utilizing Ballistocardiogram (BCG), is proposed. The system uses a lightweight accelerometer on an office chair to measure BCG and infer cardiac biometrics. NF-Heart employs multi-stage signal processing to eliminate motion artifacts and extracts user-specific features. Tested on 105 subjects, NF-Heart achieves a mean balanced accuracy of 96.45% and a median Equal Error Rate (EER) of 3.83%, demonstrating robust performance.&lt;/em>&lt;/p>
+&lt;br/>
 &lt;/li>
 &lt;/ul>
 &lt;p>Here is a demo:&lt;/p>
@@ -124,6 +138,10 @@ H. Lin, H. Su, Q. Zhang, Q. Zhang, S. Yang. &amp;ldquo;AI-Driven Smartphone Scre
 &lt;!-- &lt;video id="video" controls="" preload="none" poster="Poster">
 &lt;source id="bcg2bp" src="./BCG2BP-demo-107.mp4" type="video/mp4">
 &lt;/videos> -->
+&lt;ul>
+&lt;li>&lt;strong>PracticalBP&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://player.vimeo.com/video/1142072288" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>&lt;/iframe>
 &lt;ul>
 &lt;li>&lt;strong>FiberBP&lt;/strong>&lt;/li>
 &lt;/ul>
